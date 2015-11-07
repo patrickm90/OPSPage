@@ -1,0 +1,20 @@
+html, body, #map-canvas { height: 100%; margin: 0; padding: 0;}
+
+#content { height: 100%; margin: 0; padding: 0;}
+#left {height:55%; width:60%; float:left;}
+#right{
+	height:55%; width:40%; float:left; background:white; overflow: auto;
+}
+#detailSpaceOne{}
+
+div[class^='google-visualization-errors-all'],div[class*=' google-visualization-errors-all']
+{
+	display:none !important;
+}
+
+
+.chart div {
+  background-color: red;
+
+}
+

@@ -1,0 +1,842 @@
+[
+    {
+        "STATIONID": "2002",
+        "STATION": "Jaegerstrasse U6",
+        "LNG": "16.369837235391667",
+        "LAT": "48.235129924432414",
+        "BEZIRK": "20"
+    },
+    {
+        "STATIONID": "2005",
+        "STATION": "Millennium Tower",
+        "LNG": "16.384830885697667",
+        "LAT": "48.24193418282052",
+        "BEZIRK": "20"
+    },
+    {
+        "STATIONID": "2004",
+        "STATION": "Traisengasse",
+        "LNG": "16.383436166347646",
+        "LAT": "48.23361292300894",
+        "BEZIRK": "20"
+    },
+    {
+        "STATIONID": "2001",
+        "STATION": "Wallensteinplatz",
+        "LNG": "16.3715732198241",
+        "LAT": "48.22990594779746",
+        "BEZIRK": "20"
+    },
+    {
+        "STATIONID": "913",
+        "STATION": "Friedensbruecke",
+        "LNG": "16.365300558015445",
+        "LAT": "48.2268151508829",
+        "BEZIRK": "9"
+    },
+    {
+        "STATIONID": "212",
+        "STATION": "Radingerstrasse",
+        "LNG": "16.399781097625972",
+        "LAT": "48.22317715612901",
+        "BEZIRK": "2"
+    },
+    {
+        "STATIONID": "1001",
+        "STATION": "Hauptbahnhof West",
+        "LNG": "16.374056717115323",
+        "LAT": "48.18515975563565",
+        "BEZIRK": "10"
+    },
+    {
+        "STATIONID": "1708",
+        "STATION": "Palffygasse",
+        "LNG": "16.337133360472738",
+        "LAT": "48.217118899239146",
+        "BEZIRK": "17"
+    },
+    {
+        "STATIONID": "102",
+        "STATION": "Fahnengasse",
+        "LNG": "16.366077218752775",
+        "LAT": "48.20947504897561",
+        "BEZIRK": "1"
+    },
+    {
+        "STATIONID": "108",
+        "STATION": "Friedrich Schmidtplatz",
+        "LNG": "16.356091268325493",
+        "LAT": "48.2104190505322",
+        "BEZIRK": "1"
+    },
+    {
+        "STATIONID": "109",
+        "STATION": "Johannesgasse",
+        "LNG": "16.37671015798404",
+        "LAT": "48.203360070989824",
+        "BEZIRK": "1"
+    },
+    {
+        "STATIONID": "105",
+        "STATION": "Julius Raab Platz",
+        "LNG": "16.382366140998066",
+        "LAT": "48.21152802914468",
+        "BEZIRK": "1"
+    },
+    {
+        "STATIONID": "112",
+        "STATION": "Kaerntnerring",
+        "LNG": "16.37130818308038",
+        "LAT": "48.2021510803414",
+        "BEZIRK": "1"
+    },
+    {
+        "STATIONID": "111",
+        "STATION": "Oper",
+        "LNG": "16.36950319268082",
+        "LAT": "48.20266907954695",
+        "BEZIRK": "1"
+    },
+    {
+        "STATIONID": "110",
+        "STATION": "Rathausplatz",
+        "LNG": "16.360241247266078",
+        "LAT": "48.209915050008966",
+        "BEZIRK": "1"
+    },
+    {
+        "STATIONID": "103",
+        "STATION": "Schottenring U4",
+        "LNG": "16.37221319716503",
+        "LAT": "48.21595801394632",
+        "BEZIRK": "1"
+    },
+    {
+        "STATIONID": "104",
+        "STATION": "Schwedenplatz",
+        "LNG": "16.376646169161795",
+        "LAT": "48.21169303135952",
+        "BEZIRK": "1"
+    },
+    {
+        "STATIONID": "106",
+        "STATION": "Stadtpark Stubenring",
+        "LNG": "16.38043726696341",
+        "LAT": "48.20681451154315",
+        "BEZIRK": "1"
+    },
+    {
+        "STATIONID": "101",
+        "STATION": "Stephansplatz",
+        "LNG": "16.374035178239456",
+        "LAT": "48.20850804850966",
+        "BEZIRK": "1"
+    },
+    {
+        "STATIONID": "113",
+        "STATION": "Universitaetsring",
+        "LNG": "16.360842062774527",
+        "LAT": "48.21195267335475",
+        "BEZIRK": "1"
+    },
+    {
+        "STATIONID": "107",
+        "STATION": "Volksgarten",
+        "LNG": "16.360404241641643",
+        "LAT": "48.206501066193795",
+        "BEZIRK": "1"
+    },
+    {
+        "STATIONID": "201",
+        "STATION": "Heinestrasse",
+        "LNG": "16.39027144731316",
+        "LAT": "48.21844838751067",
+        "BEZIRK": "2"
+    },
+    {
+        "STATIONID": "203",
+        "STATION": "Karmeliterplatz",
+        "LNG": "16.379647160615075",
+        "LAT": "48.2156730104602",
+        "BEZIRK": "2"
+    },
+    {
+        "STATIONID": "208",
+        "STATION": "Krieau",
+        "LNG": "16.414362988403433",
+        "LAT": "48.21437599562027",
+        "BEZIRK": "2"
+    },
+    {
+        "STATIONID": "207",
+        "STATION": "Messeplatz",
+        "LNG": "16.406162033040825",
+        "LAT": "48.21728998644786",
+        "BEZIRK": "2"
+    },
+    {
+        "STATIONID": "202",
+        "STATION": "Nepomukgasse",
+        "LNG": "16.386201129414278",
+        "LAT": "48.215872005711226",
+        "BEZIRK": "2"
+    },
+    {
+        "STATIONID": "205",
+        "STATION": "Novaragasse",
+        "LNG": "16.382202301928466",
+        "LAT": "48.21951469618898",
+        "BEZIRK": "2"
+    },
+    {
+        "STATIONID": "204",
+        "STATION": "Obere Donaustrasse",
+        "LNG": "16.373077469949898",
+        "LAT": "48.217768685006895",
+        "BEZIRK": "2"
+    },
+    {
+        "STATIONID": "206",
+        "STATION": "Praterstern",
+        "LNG": "16.392021818411685",
+        "LAT": "48.21782586224878",
+        "BEZIRK": "2"
+    },
+    {
+        "STATIONID": "209",
+        "STATION": "Stadion Center",
+        "LNG": "16.421396948698256",
+        "LAT": "48.209977012009766",
+        "BEZIRK": "2"
+    },
+    {
+        "STATIONID": "211",
+        "STATION": "Suedportalstrasse",
+        "LNG": "16.40768551471879",
+        "LAT": "48.21285225769253",
+        "BEZIRK": "2"
+    },
+    {
+        "STATIONID": "306",
+        "STATION": "Arbeiterkammer",
+        "LNG": "16.377114434562824",
+        "LAT": "48.19462553543819",
+        "BEZIRK": "3"
+    },
+    {
+        "STATIONID": "308",
+        "STATION": "Bahngasse",
+        "LNG": "16.384468407357602",
+        "LAT": "48.2016134404454",
+        "BEZIRK": "3"
+    },
+    {
+        "STATIONID": "304",
+        "STATION": "Fasanplatz",
+        "LNG": "16.38657209655818",
+        "LAT": "48.1942341083809",
+        "BEZIRK": "3"
+    },
+    {
+        "STATIONID": "309",
+        "STATION": "Juchgasse",
+        "LNG": "16.39519377601202",
+        "LAT": "48.19667110171217",
+        "BEZIRK": "3"
+    },
+    {
+        "STATIONID": "307",
+        "STATION": "Kundmanngasse",
+        "LNG": "16.396001156576908",
+        "LAT": "48.205679689184535",
+        "BEZIRK": "3"
+    },
+    {
+        "STATIONID": "311",
+        "STATION": "Petrusgasse",
+        "LNG": "16.398455320772662",
+        "LAT": "48.19298076866997",
+        "BEZIRK": "3"
+    },
+    {
+        "STATIONID": "302",
+        "STATION": "Radetzkyplatz",
+        "LNG": "16.390210102370393",
+        "LAT": "48.210677028430915",
+        "BEZIRK": "3"
+    },
+    {
+        "STATIONID": "305",
+        "STATION": "Salmgasse",
+        "LNG": "16.389773093546395",
+        "LAT": "48.203404062785246",
+        "BEZIRK": "3"
+    },
+    {
+        "STATIONID": "301",
+        "STATION": "Schwarzenbergplatz",
+        "LNG": "16.37696815054703",
+        "LAT": "48.198851092510644",
+        "BEZIRK": "3"
+    },
+    {
+        "STATIONID": "303",
+        "STATION": "Wassergasse",
+        "LNG": "16.3943220661911",
+        "LAT": "48.19923307994595",
+        "BEZIRK": "3"
+    },
+    {
+        "STATIONID": "313",
+        "STATION": "Wien Mitte",
+        "LNG": "16.385238396352516",
+        "LAT": "48.20584565595263",
+        "BEZIRK": "3"
+    },
+    {
+        "STATIONID": "404",
+        "STATION": "Heumuehlgasse",
+        "LNG": "16.363298444460696",
+        "LAT": "48.19530317571636",
+        "BEZIRK": "4"
+    },
+    {
+        "STATIONID": "402",
+        "STATION": "Mayerhofgasse",
+        "LNG": "16.367061561235158",
+        "LAT": "48.192876888617675",
+        "BEZIRK": "4"
+    },
+    {
+        "STATIONID": "403",
+        "STATION": "Sankt-Elisabeth-Platz",
+        "LNG": "16.37565799613735",
+        "LAT": "48.19085186687401",
+        "BEZIRK": "4"
+    },
+    {
+        "STATIONID": "401",
+        "STATION": "Treitlstrasse",
+        "LNG": "16.36815119456501",
+        "LAT": "48.19972409425667",
+        "BEZIRK": "4"
+    },
+    {
+        "STATIONID": "504",
+        "STATION": "Arbeitergasse",
+        "LNG": "16.3458232822723",
+        "LAT": "48.183880183581195",
+        "BEZIRK": "5"
+    },
+    {
+        "STATIONID": "502",
+        "STATION": "Falco Stiege",
+        "LNG": "16.35740024220815",
+        "LAT": "48.196354117186324",
+        "BEZIRK": "5"
+    },
+    {
+        "STATIONID": "506",
+        "STATION": "Hartmanngasse",
+        "LNG": "16.36389119742535",
+        "LAT": "48.187178156176074",
+        "BEZIRK": "5"
+    },
+    {
+        "STATIONID": "503",
+        "STATION": "Margaretenguertel U4",
+        "LNG": "16.343859298396996",
+        "LAT": "48.18847016318455",
+        "BEZIRK": "5"
+    },
+    {
+        "STATIONID": "508",
+        "STATION": "Matzleinsdorfer Platz",
+        "LNG": "16.358003129491298",
+        "LAT": "48.18154277129087",
+        "BEZIRK": "5"
+    },
+    {
+        "STATIONID": "509",
+        "STATION": "Mittersteig",
+        "LNG": "16.361329704151782",
+        "LAT": "48.18972630525521",
+        "BEZIRK": "5"
+    },
+    {
+        "STATIONID": "501",
+        "STATION": "Pilgramgasse U4",
+        "LNG": "16.35469625087456",
+        "LAT": "48.19269913559258",
+        "BEZIRK": "5"
+    },
+    {
+        "STATIONID": "505",
+        "STATION": "Reinprechtsdorfer Bruecke",
+        "LNG": "16.35101826426761",
+        "LAT": "48.18952115303165",
+        "BEZIRK": "5"
+    },
+    {
+        "STATIONID": "507",
+        "STATION": "Siebenbrunnenplatz",
+        "LNG": "16.35301425105463",
+        "LAT": "48.18527148353864",
+        "BEZIRK": "5"
+    },
+    {
+        "STATIONID": "602",
+        "STATION": "Gumpendorfer Guertel",
+        "LNG": "16.338300077905117",
+        "LAT": "48.189253933201435",
+        "BEZIRK": "6"
+    },
+    {
+        "STATIONID": "601",
+        "STATION": "Kollergerngasse",
+        "LNG": "16.35090927688664",
+        "LAT": "48.19852111048471",
+        "BEZIRK": "6"
+    },
+    {
+        "STATIONID": "702",
+        "STATION": "Burggasse U6",
+        "LNG": "16.337417655089805",
+        "LAT": "48.20366972378574",
+        "BEZIRK": "7"
+    },
+    {
+        "STATIONID": "701",
+        "STATION": "Museumsplatz",
+        "LNG": "16.360954933026385",
+        "LAT": "48.202664209151195",
+        "BEZIRK": "7"
+    },
+    {
+        "STATIONID": "703",
+        "STATION": "Schottenfeldgasse",
+        "LNG": "16.34323232755903",
+        "LAT": "48.20724307326908",
+        "BEZIRK": "7"
+    },
+    {
+        "STATIONID": "705",
+        "STATION": "Siebensternplatz",
+        "LNG": "16.352024276415193",
+        "LAT": "48.20215509262772",
+        "BEZIRK": "7"
+    },
+    {
+        "STATIONID": "704",
+        "STATION": "Urban Loritz Platz",
+        "LNG": "16.337718344961175",
+        "LAT": "48.201029106300076",
+        "BEZIRK": "7"
+    },
+    {
+        "STATIONID": "706",
+        "STATION": "Weghuberpark",
+        "LNG": "16.356423260794898",
+        "LAT": "48.206001071480465",
+        "BEZIRK": "7"
+    },
+    {
+        "STATIONID": "802",
+        "STATION": "Albertgasse",
+        "LNG": "16.34405805818636",
+        "LAT": "48.21053263166596",
+        "BEZIRK": "8"
+    },
+    {
+        "STATIONID": "801",
+        "STATION": "Alser Strasse/Feldgasse",
+        "LNG": "16.346440322647627",
+        "LAT": "48.21521903361881",
+        "BEZIRK": "8"
+    },
+    {
+        "STATIONID": "910",
+        "STATION": "Althanstrasse",
+        "LNG": "16.359604918172373",
+        "LAT": "48.228940550854276",
+        "BEZIRK": "9"
+    },
+    {
+        "STATIONID": "707",
+        "STATION": "Webgasse",
+        "LNG": "16.343974308719062",
+        "LAT": "48.19672112366531",
+        "BEZIRK": "7"
+    },
+    {
+        "STATIONID": "908",
+        "STATION": "Bauernfeldplatz",
+        "LNG": "16.360176112073113",
+        "LAT": "48.22110519488526",
+        "BEZIRK": "9"
+    },
+    {
+        "STATIONID": "912",
+        "STATION": "Berggasse",
+        "LNG": "16.366334431034286",
+        "LAT": "48.21918007240759",
+        "BEZIRK": "9"
+    },
+    {
+        "STATIONID": "905",
+        "STATION": "Boltzmanngasse",
+        "LNG": "16.356383281385313",
+        "LAT": "48.2203370033277",
+        "BEZIRK": "9"
+    },
+    {
+        "STATIONID": "904",
+        "STATION": "Frankhplatz",
+        "LNG": "16.355136279645876",
+        "LAT": "48.21515002865829",
+        "BEZIRK": "9"
+    },
+    {
+        "STATIONID": "902",
+        "STATION": "Julius-Tandler-Platz",
+        "LNG": "16.361910261242414",
+        "LAT": "48.22607897216875",
+        "BEZIRK": "9"
+    },
+    {
+        "STATIONID": "911",
+        "STATION": "Loeblichgasse",
+        "LNG": "16.3513387427262",
+        "LAT": "48.22642502262636",
+        "BEZIRK": "9"
+    },
+    {
+        "STATIONID": "909",
+        "STATION": "Markthalle Alsergrund",
+        "LNG": "16.354975797960442",
+        "LAT": "48.22514562147288",
+        "BEZIRK": "9"
+    },
+    {
+        "STATIONID": "903",
+        "STATION": "Rossauer Laende U4",
+        "LNG": "16.367431454131193",
+        "LAT": "48.222736726527195",
+        "BEZIRK": "9"
+    },
+    {
+        "STATIONID": "907",
+        "STATION": "Sensengasse",
+        "LNG": "16.352475524304293",
+        "LAT": "48.219287754026425",
+        "BEZIRK": "9"
+    },
+    {
+        "STATIONID": "901",
+        "STATION": "Sigmund Freud Park",
+        "LNG": "16.361385247869126",
+        "LAT": "48.21458602735518",
+        "BEZIRK": "9"
+    },
+    {
+        "STATIONID": "906",
+        "STATION": "Spittelau U4/U6",
+        "LNG": "16.35873579263993",
+        "LAT": "48.23520116573363",
+        "BEZIRK": "9"
+    },
+    {
+        "STATIONID": "1002",
+        "STATION": "Hauptbahnhof",
+        "LNG": "16.375698223043457",
+        "LAT": "48.186293516933475",
+        "BEZIRK": "10"
+    },
+    {
+        "STATIONID": "1201",
+        "STATION": "Laengenfeldgasse",
+        "LNG": "16.333922340118463",
+        "LAT": "48.1842621890689",
+        "BEZIRK": "12"
+    },
+    {
+        "STATIONID": "1203",
+        "STATION": "Philadelphiabruecke",
+        "LNG": "16.33026734550544",
+        "LAT": "48.174594237772396",
+        "BEZIRK": "12"
+    },
+    {
+        "STATIONID": "1202",
+        "STATION": "Reschgasse",
+        "LNG": "16.33077135094769",
+        "LAT": "48.18024321000042",
+        "BEZIRK": "12"
+    },
+    {
+        "STATIONID": "1301",
+        "STATION": "Schoenbrunn Haupteingang",
+        "LNG": "16.314233440881285",
+        "LAT": "48.18682718871198",
+        "BEZIRK": "13"
+    },
+    {
+        "STATIONID": "1401",
+        "STATION": "Technisches Museum",
+        "LNG": "16.31855107051215",
+        "LAT": "48.19033218545624",
+        "BEZIRK": "14"
+    },
+    {
+        "STATIONID": "1509",
+        "STATION": "Markgraf-Roediger-Strasse",
+        "LNG": "16.329879342156847",
+        "LAT": "48.202505065651444",
+        "BEZIRK": "15"
+    },
+    {
+        "STATIONID": "1508",
+        "STATION": "Meiselmarkt",
+        "LNG": "16.3189695046396",
+        "LAT": "48.1983583735664",
+        "BEZIRK": "15"
+    },
+    {
+        "STATIONID": "1507",
+        "STATION": "Schmelzbruecke",
+        "LNG": "16.33024545308979",
+        "LAT": "48.1961342605315",
+        "BEZIRK": "15"
+    },
+    {
+        "STATIONID": "1503",
+        "STATION": "Schoenbrunner Bruecke",
+        "LNG": "16.31988941119988",
+        "LAT": "48.18586019000772",
+        "BEZIRK": "13"
+    },
+    {
+        "STATIONID": "1515",
+        "STATION": "Schweglerstrasse",
+        "LNG": "16.32711600594408",
+        "LAT": "48.19987760421484",
+        "BEZIRK": "15"
+    },
+    {
+        "STATIONID": "1506",
+        "STATION": "Schwendermarkt",
+        "LNG": "16.32549259406012",
+        "LAT": "48.190811391990984",
+        "BEZIRK": "15"
+    },
+    {
+        "STATIONID": "1513",
+        "STATION": "Selzergasse",
+        "LNG": "16.323053145093358",
+        "LAT": "48.19679489159173",
+        "BEZIRK": "15"
+    },
+    {
+        "STATIONID": "1505",
+        "STATION": "Turnergasse",
+        "LNG": "16.333944196182642",
+        "LAT": "48.19307863661804",
+        "BEZIRK": "15"
+    },
+    {
+        "STATIONID": "1501",
+        "STATION": "Westbahnhof Europaplatz",
+        "LNG": "16.33855892056237",
+        "LAT": "48.196823487932726",
+        "BEZIRK": "15"
+    },
+    {
+        "STATIONID": "1514",
+        "STATION": "Westbahnhof Felberstrasse",
+        "LNG": "16.337711347298168",
+        "LAT": "48.19795699287697",
+        "BEZIRK": "15"
+    },
+    {
+        "STATIONID": "1516",
+        "STATION": "Westbahnhof Gerstnerstrasse",
+        "LNG": "16.337209773921458",
+        "LAT": "48.195736445205696",
+        "BEZIRK": "15"
+    },
+    {
+        "STATIONID": "114",
+        "STATION": "Hoher Markt",
+        "LNG": "16.372977055416264",
+        "LAT": "48.21066012185283",
+        "BEZIRK": "1"
+    },
+    {
+        "STATIONID": "1511",
+        "STATION": "Wieningerplatz",
+        "LNG": "16.318423671003167",
+        "LAT": "48.19406919497855",
+        "BEZIRK": "15"
+    },
+    {
+        "STATIONID": "1609",
+        "STATION": "Brestelgasse",
+        "LNG": "16.330751689466553",
+        "LAT": "48.214012595893635",
+        "BEZIRK": "16"
+    },
+    {
+        "STATIONID": "1610",
+        "STATION": "Froebelgasse",
+        "LNG": "16.330829851564694",
+        "LAT": "48.20583807286012",
+        "BEZIRK": "16"
+    },
+    {
+        "STATIONID": "1602",
+        "STATION": "Hofferplatz",
+        "LNG": "16.33342655566557",
+        "LAT": "48.20919324374739",
+        "BEZIRK": "16"
+    },
+    {
+        "STATIONID": "1601",
+        "STATION": "Josefstaedter Strasse U6",
+        "LNG": "16.339042353925205",
+        "LAT": "48.21174805510016",
+        "BEZIRK": "16"
+    },
+    {
+        "STATIONID": "1605",
+        "STATION": "Ottakring U3",
+        "LNG": "16.311762463262074",
+        "LAT": "48.21185291402386",
+        "BEZIRK": "16"
+    },
+    {
+        "STATIONID": "1603",
+        "STATION": "Richard-Wagner-Platz",
+        "LNG": "16.32798169955151",
+        "LAT": "48.210090539030524",
+        "BEZIRK": "16"
+    },
+    {
+        "STATIONID": "1606",
+        "STATION": "Schuhmeierplatz",
+        "LNG": "16.31878981488788",
+        "LAT": "48.210780483631886",
+        "BEZIRK": "16"
+    },
+    {
+        "STATIONID": "1604",
+        "STATION": "Thaliastrasse U6",
+        "LNG": "16.33793230955998",
+        "LAT": "48.20801170422987",
+        "BEZIRK": "16"
+    },
+    {
+        "STATIONID": "1607",
+        "STATION": "Yppenplatz",
+        "LNG": "16.33570704534357",
+        "LAT": "48.21385709883718",
+        "BEZIRK": "16"
+    },
+    {
+        "STATIONID": "1701",
+        "STATION": "Alser Strasse U6",
+        "LNG": "16.342035611841766",
+        "LAT": "48.21789023781114",
+        "BEZIRK": "18"
+    },
+    {
+        "STATIONID": "1707",
+        "STATION": "Blumengasse",
+        "LNG": "16.3284886518388",
+        "LAT": "48.2228109095436",
+        "BEZIRK": "17"
+    },
+    {
+        "STATIONID": "1703",
+        "STATION": "Dornerplatz",
+        "LNG": "16.334520908141187",
+        "LAT": "48.221254427468416",
+        "BEZIRK": "17"
+    },
+    {
+        "STATIONID": "1702",
+        "STATION": "Elterleinplatz",
+        "LNG": "16.33228395218437",
+        "LAT": "48.21803320801108",
+        "BEZIRK": "17"
+    },
+    {
+        "STATIONID": "1704",
+        "STATION": "Rosensteingasse",
+        "LNG": "16.32653332595916",
+        "LAT": "48.2195379630232",
+        "BEZIRK": "17"
+    },
+    {
+        "STATIONID": "1807",
+        "STATION": "Aumannplatz",
+        "LNG": "16.335035018108595",
+        "LAT": "48.228560271940516",
+        "BEZIRK": "18"
+    },
+    {
+        "STATIONID": "1806",
+        "STATION": "Gersthof",
+        "LNG": "16.329509697076634",
+        "LAT": "48.2310188175218",
+        "BEZIRK": "18"
+    },
+    {
+        "STATIONID": "1804",
+        "STATION": "Gertrudplatz",
+        "LNG": "16.344193372014836",
+        "LAT": "48.22570492281959",
+        "BEZIRK": "18"
+    },
+    {
+        "STATIONID": "1803",
+        "STATION": "Michelbeuern",
+        "LNG": "16.34370742919867",
+        "LAT": "48.22181286544736",
+        "BEZIRK": "18"
+    },
+    {
+        "STATIONID": "1802",
+        "STATION": "Nussdorfer Strasse U6",
+        "LNG": "16.352971748438584",
+        "LAT": "48.23172265428253",
+        "BEZIRK": "18"
+    },
+    {
+        "STATIONID": "1801",
+        "STATION": "Waehringer Strasse U6",
+        "LNG": "16.34902132172584",
+        "LAT": "48.22419498908096",
+        "BEZIRK": "18"
+    },
+    {
+        "STATIONID": "1901",
+        "STATION": "Gymnasiumstrasse",
+        "LNG": "16.348736568037992",
+        "LAT": "48.2365946555803",
+        "BEZIRK": "19"
+    },
+    {
+        "STATIONID": "2006",
+        "STATION": "Friedrich Engels Platz",
+        "LNG": "16.379227781223292",
+        "LAT": "48.24402054983736",
+        "BEZIRK": "20"
+    },
+    {
+        "STATIONID": "2003",
+        "STATION": "Hellwagstrasse",
+        "LNG": "16.380306187319295",
+        "LAT": "48.237457906071185",
+        "BEZIRK": "20"
+    }
+]

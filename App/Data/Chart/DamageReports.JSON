@@ -1,0 +1,6644 @@
+[{
+	"month": "JANUARY",
+	"typ": [{
+		"typ": "Terminal Service",
+		"count": 30
+	},
+	{
+		"typ": "Graffitti",
+		"count": 14
+	},
+	{
+		"typ": "entfernen",
+		"count": 14
+	},
+	{
+		"typ": "Schadensmeldung",
+		"count": 236
+	},
+	{
+		"typ": "Lenker",
+		"count": 45
+	},
+	{
+		"typ": "Schaltung",
+		"count": 16
+	},
+	{
+		"typ": "Steuerlager",
+		"count": 16
+	},
+	{
+		"typ": "Sonstiges",
+		"count": 94
+	},
+	{
+		"typ": "Korb",
+		"count": 99
+	},
+	{
+		"typ": "Schutzblech",
+		"count": 22
+	},
+	{
+		"typ": "Auto",
+		"count": 57
+	},
+	{
+		"typ": "abholen",
+		"count": 58
+	},
+	{
+		"typ": "Schaltgriff komplett",
+		"count": 2
+	},
+	{
+		"typ": "Schaltseil",
+		"count": 5
+	},
+	{
+		"typ": "Schutzblechb�gel",
+		"count": 12
+	},
+	{
+		"typ": "Licht",
+		"count": 74
+	},
+	{
+		"typ": "Licht hinten",
+		"count": 35
+	},
+	{
+		"typ": "Lichtkabel",
+		"count": 84
+	},
+	{
+		"typ": "Bremse",
+		"count": 32
+	},
+	{
+		"typ": "Bremshebel",
+		"count": 14
+	},
+	{
+		"typ": "Bremsseil",
+		"count": 21
+	},
+	{
+		"typ": "Pedale",
+		"count": 32
+	},
+	{
+		"typ": "Kurbel links",
+		"count": 18
+	},
+	{
+		"typ": "Tretlager",
+		"count": 12
+	},
+	{
+		"typ": "Hinterrad",
+		"count": 71
+	},
+	{
+		"typ": "Reifen",
+		"count": 31
+	},
+	{
+		"typ": "Gummieinlage hinten",
+		"count": 20
+	},
+	{
+		"typ": "Schwalbe Reifen 1,5",
+		"count": 19
+	},
+	{
+		"typ": "Kette",
+		"count": 38
+	},
+	{
+		"typ": "Sattel",
+		"count": 64
+	},
+	{
+		"typ": "Sattelschnellspanner",
+		"count": 58
+	},
+	{
+		"typ": "Plastik",
+		"count": 21
+	},
+	{
+		"typ": "Sponsoraufkleber",
+		"count": 14
+	},
+	{
+		"typ": "Box Service",
+		"count": 28
+	},
+	{
+		"typ": "Mechanik",
+		"count": 22
+	},
+	{
+		"typ": "Doppelsensor tauschen",
+		"count": 5
+	},
+	{
+		"typ": "Doppel-Sensor",
+		"count": 4
+	},
+	{
+		"typ": "Rollenbremse",
+		"count": 10
+	},
+	{
+		"typ": "Klingel",
+		"count": 28
+	},
+	{
+		"typ": "Achsmutter hinten",
+		"count": 7
+	},
+	{
+		"typ": "Verdrehsicherung",
+		"count": 3
+	},
+	{
+		"typ": "Nabe hinten",
+		"count": 30
+	},
+	{
+		"typ": "Pedal links",
+		"count": 10
+	},
+	{
+		"typ": "Extras",
+		"count": 28
+	},
+	{
+		"typ": "Entlehnung probieren",
+		"count": 28
+	},
+	{
+		"typ": "Lenkersperre",
+		"count": 60
+	},
+	{
+		"typ": "Schl�sselabdeckung",
+		"count": 4
+	},
+	{
+		"typ": "Schlo� (komplett)",
+		"count": 22
+	},
+	{
+		"typ": "Seitenst�nder",
+		"count": 18
+	},
+	{
+		"typ": "Nabe Eingang",
+		"count": 14
+	},
+	{
+		"typ": "Felgenband Vollgummi",
+		"count": 19
+	},
+	{
+		"typ": "Schwalbe Gummieinlage 1,5",
+		"count": 17
+	},
+	{
+		"typ": "Dispenser",
+		"count": 4
+	},
+	{
+		"typ": "Deckel",
+		"count": 2
+	},
+	{
+		"typ": "Dispenserdeckel",
+		"count": 2
+	},
+	{
+		"typ": "Vorderrad",
+		"count": 36
+	},
+	{
+		"typ": "Gummieinlage vorne",
+		"count": 10
+	},
+	{
+		"typ": "Schloss ausrichten",
+		"count": 16
+	},
+	{
+		"typ": "Schlossschrauben nachziehen",
+		"count": 13
+	},
+	{
+		"typ": "Haken gerade biegen",
+		"count": 16
+	},
+	{
+		"typ": "Vollgummi-Einlage 1,35",
+		"count": 10
+	},
+	{
+		"typ": "Reifen Schwalbe 1,35",
+		"count": 6
+	},
+	{
+		"typ": "Schaltbox",
+		"count": 2
+	},
+	{
+		"typ": "Schaltbowde",
+		"count": 3
+	},
+	{
+		"typ": "Klappe",
+		"count": 9
+	},
+	{
+		"typ": "Transponder",
+		"count": 5
+	},
+	{
+		"typ": "Lenkstange",
+		"count": 5
+	},
+	{
+		"typ": "Sattelst�tze",
+		"count": 5
+	},
+	{
+		"typ": "Pallett (Schlosshaken)",
+		"count": 11
+	},
+	{
+		"typ": "R�cktritt",
+		"count": 1
+	},
+	{
+		"typ": "komplett",
+		"count": 1
+	},
+	{
+		"typ": "Licht vorne",
+		"count": 21
+	},
+	{
+		"typ": "Licht vorne Trelock",
+		"count": 6
+	},
+	{
+		"typ": "komplett tauschen",
+		"count": 11
+	},
+	{
+		"typ": "komplette Mechanik",
+		"count": 11
+	},
+	{
+		"typ": "Boxenmechanik",
+		"count": 13
+	},
+	{
+		"typ": "bringen",
+		"count": 7
+	},
+	{
+		"typ": "im Terminal",
+		"count": 6
+	},
+	{
+		"typ": "Schaltung einstellen",
+		"count": 7
+	},
+	{
+		"typ": "Vorderradscheibe",
+		"count": 9
+	},
+	{
+		"typ": "Elektronic",
+		"count": 3
+	},
+	{
+		"typ": "tauschen",
+		"count": 5
+	},
+	{
+		"typ": "Bikebox-Elektronik",
+		"count": 3
+	},
+	{
+		"typ": "Klingelkl�ppel",
+		"count": 3
+	},
+	{
+		"typ": "Ganganzeige",
+		"count": 2
+	},
+	{
+		"typ": "Kurbel rechts",
+		"count": 9
+	},
+	{
+		"typ": "Vorbau",
+		"count": 5
+	},
+	{
+		"typ": "Geh�use Oberteil",
+		"count": 12
+	},
+	{
+		"typ": "Sensoren einstellen",
+		"count": 6
+	},
+	{
+		"typ": "Hook-Sensor tauschen",
+		"count": 4
+	},
+	{
+		"typ": "Hook-Sensor",
+		"count": 5
+	},
+	{
+		"typ": "Pallett-Sensor tauschen",
+		"count": 3
+	},
+	{
+		"typ": "Pallett-Sensor",
+		"count": 3
+	},
+	{
+		"typ": "Schl�ssel",
+		"count": 3
+	},
+	{
+		"typ": "Lenkergriff",
+		"count": 13
+	},
+	{
+		"typ": "Speiche Hinterrad",
+		"count": 4
+	},
+	{
+		"typ": "Zylinder",
+		"count": 4
+	},
+	{
+		"typ": "Pedal rechts",
+		"count": 6
+	},
+	{
+		"typ": "zentrieren",
+		"count": 14
+	},
+	{
+		"typ": "Achsmutter vorne",
+		"count": 6
+	},
+	{
+		"typ": "Lichthalterung",
+		"count": 6
+	},
+	{
+		"typ": "Felge",
+		"count": 2
+	},
+	{
+		"typ": "Plastikhalterung",
+		"count": 3
+	},
+	{
+		"typ": "Licht vorne Radius",
+		"count": 4
+	},
+	{
+		"typ": "Gabel",
+		"count": 2
+	},
+	{
+		"typ": "Korbhalterung",
+		"count": 6
+	},
+	{
+		"typ": "Knopf",
+		"count": 3
+	},
+	{
+		"typ": "Pitlock vorne",
+		"count": 1
+	},
+	{
+		"typ": "Kettenschutz",
+		"count": 10
+	},
+	{
+		"typ": "Schaltst�bchen",
+		"count": 1
+	},
+	{
+		"typ": "V-Brake",
+		"count": 4
+	},
+	{
+		"typ": "Lichthalterung alt",
+		"count": 2
+	},
+	{
+		"typ": "Vorderrad Shimano",
+		"count": 2
+	},
+	{
+		"typ": "Korbstrebe",
+		"count": 2
+	},
+	{
+		"typ": "Nabe 3-Gang",
+		"count": 2
+	},
+	{
+		"typ": "Gr�ner Knopf",
+		"count": 1
+	},
+	{
+		"typ": "Rahmen",
+		"count": 1
+	},
+	{
+		"typ": "Bremsschuhe",
+		"count": 3
+	},
+	{
+		"typ": "Gegenhalter",
+		"count": 1
+	},
+	{
+		"typ": "Dynamostecker",
+		"count": 1
+	},
+	{
+		"typ": "Kettenschutzhalterung",
+		"count": 1
+	},
+	{
+		"typ": "Plastik klein",
+		"count": 2
+	},
+	{
+		"typ": "Lichthalterung neu",
+		"count": 1
+	},
+	{
+		"typ": "Bremsbowde",
+		"count": 1
+	},
+	{
+		"typ": "Vorderrad SRAM",
+		"count": 1
+	},
+	{
+		"typ": "Gabel (+Farbe)(automatisch)",
+		"count": 1
+	}]
+},
+{
+	"month": "FEBRUARY",
+	"typ": [{
+		"typ": "Korb",
+		"count": 89
+	},
+	{
+		"typ": "Kette",
+		"count": 76
+	},
+	{
+		"typ": "Lichtkabel",
+		"count": 71
+	},
+	{
+		"typ": "Nabe Eingang",
+		"count": 26
+	},
+	{
+		"typ": "Schwalbe Reifen 1,5",
+		"count": 22
+	},
+	{
+		"typ": "Felgenband Vollgummi",
+		"count": 26
+	},
+	{
+		"typ": "Licht vorne Trelock",
+		"count": 5
+	},
+	{
+		"typ": "Nabe 3-Gang",
+		"count": 3
+	},
+	{
+		"typ": "Schwalbe Gummieinlage 1,5",
+		"count": 21
+	},
+	{
+		"typ": "Pallett (Schlosshaken)",
+		"count": 14
+	},
+	{
+		"typ": "Pedal rechts",
+		"count": 3
+	},
+	{
+		"typ": "Pedal links",
+		"count": 12
+	},
+	{
+		"typ": "Kurbel rechts",
+		"count": 8
+	},
+	{
+		"typ": "Schl�sselabdeckung",
+		"count": 2
+	},
+	{
+		"typ": "Schaltseil",
+		"count": 2
+	},
+	{
+		"typ": "Schaltbowde",
+		"count": 1
+	},
+	{
+		"typ": "Lenkergriff",
+		"count": 3
+	},
+	{
+		"typ": "Schutzblech",
+		"count": 26
+	},
+	{
+		"typ": "Kettenschutz",
+		"count": 15
+	},
+	{
+		"typ": "Vollgummi-Einlage 1,35",
+		"count": 5
+	},
+	{
+		"typ": "Reifen Schwalbe 1,35",
+		"count": 8
+	},
+	{
+		"typ": "Sattelschnellspanner",
+		"count": 31
+	},
+	{
+		"typ": "Licht hinten",
+		"count": 46
+	},
+	{
+		"typ": "Kurbel links",
+		"count": 10
+	},
+	{
+		"typ": "Bremsseil",
+		"count": 10
+	},
+	{
+		"typ": "Sattel",
+		"count": 69
+	},
+	{
+		"typ": "Schutzblechb�gel",
+		"count": 10
+	},
+	{
+		"typ": "Schadensmeldung",
+		"count": 290
+	},
+	{
+		"typ": "Licht",
+		"count": 80
+	},
+	{
+		"typ": "Lenkersperre",
+		"count": 63
+	},
+	{
+		"typ": "Schlo� (komplett)",
+		"count": 22
+	},
+	{
+		"typ": "Sonstiges",
+		"count": 93
+	},
+	{
+		"typ": "Auto",
+		"count": 66
+	},
+	{
+		"typ": "abholen",
+		"count": 71
+	},
+	{
+		"typ": "Hinterrad",
+		"count": 94
+	},
+	{
+		"typ": "Pedale",
+		"count": 43
+	},
+	{
+		"typ": "Licht vorne",
+		"count": 21
+	},
+	{
+		"typ": "Nabe hinten",
+		"count": 35
+	},
+	{
+		"typ": "Seitenst�nder",
+		"count": 9
+	},
+	{
+		"typ": "Licht vorne Radius",
+		"count": 6
+	},
+	{
+		"typ": "Box Service",
+		"count": 24
+	},
+	{
+		"typ": "Knopf",
+		"count": 3
+	},
+	{
+		"typ": "tauschen",
+		"count": 9
+	},
+	{
+		"typ": "Gr�ner Knopf",
+		"count": 2
+	},
+	{
+		"typ": "Bremse",
+		"count": 24
+	},
+	{
+		"typ": "Bremsschuhe",
+		"count": 2
+	},
+	{
+		"typ": "V-Brake",
+		"count": 9
+	},
+	{
+		"typ": "Elektronic",
+		"count": 6
+	},
+	{
+		"typ": "Bikebox-Elektronik",
+		"count": 6
+	},
+	{
+		"typ": "Bremshebel",
+		"count": 10
+	},
+	{
+		"typ": "Reifen",
+		"count": 39
+	},
+	{
+		"typ": "Gummieinlage hinten",
+		"count": 25
+	},
+	{
+		"typ": "Lenker",
+		"count": 42
+	},
+	{
+		"typ": "Steuerlager",
+		"count": 28
+	},
+	{
+		"typ": "Korbhalterung",
+		"count": 10
+	},
+	{
+		"typ": "Korbstrebe",
+		"count": 3
+	},
+	{
+		"typ": "Extras",
+		"count": 59
+	},
+	{
+		"typ": "Entlehnung probieren",
+		"count": 57
+	},
+	{
+		"typ": "Vorbau",
+		"count": 8
+	},
+	{
+		"typ": "Tretlager",
+		"count": 18
+	},
+	{
+		"typ": "Vorderrad",
+		"count": 35
+	},
+	{
+		"typ": "Gummieinlage vorne",
+		"count": 6
+	},
+	{
+		"typ": "Achsmutter vorne",
+		"count": 7
+	},
+	{
+		"typ": "Klappe",
+		"count": 13
+	},
+	{
+		"typ": "Lenkstange",
+		"count": 5
+	},
+	{
+		"typ": "Rollenbremse",
+		"count": 6
+	},
+	{
+		"typ": "Bremsbowde",
+		"count": 1
+	},
+	{
+		"typ": "zentrieren",
+		"count": 10
+	},
+	{
+		"typ": "Plastik",
+		"count": 14
+	},
+	{
+		"typ": "Geh�use Oberteil",
+		"count": 26
+	},
+	{
+		"typ": "Schloss ausrichten",
+		"count": 17
+	},
+	{
+		"typ": "Schlossschrauben nachziehen",
+		"count": 15
+	},
+	{
+		"typ": "Sponsoraufkleber",
+		"count": 6
+	},
+	{
+		"typ": "Haken gerade biegen",
+		"count": 22
+	},
+	{
+		"typ": "Schaltung",
+		"count": 8
+	},
+	{
+		"typ": "Schaltst�bchen",
+		"count": 3
+	},
+	{
+		"typ": "Terminal Service",
+		"count": 21
+	},
+	{
+		"typ": "Graffitti",
+		"count": 9
+	},
+	{
+		"typ": "entfernen",
+		"count": 9
+	},
+	{
+		"typ": "R�cktritt",
+		"count": 1
+	},
+	{
+		"typ": "Speichen Vorderrad",
+		"count": 4
+	},
+	{
+		"typ": "Klingel",
+		"count": 16
+	},
+	{
+		"typ": "Steuerlager Kontermutter",
+		"count": 2
+	},
+	{
+		"typ": "Schl�ssel",
+		"count": 5
+	},
+	{
+		"typ": "Boxenmechanik",
+		"count": 11
+	},
+	{
+		"typ": "bringen",
+		"count": 4
+	},
+	{
+		"typ": "im Terminal",
+		"count": 2
+	},
+	{
+		"typ": "Mechanik",
+		"count": 15
+	},
+	{
+		"typ": "komplett tauschen",
+		"count": 5
+	},
+	{
+		"typ": "komplette Mechanik",
+		"count": 4
+	},
+	{
+		"typ": "Schaltgriff Gummi",
+		"count": 1
+	},
+	{
+		"typ": "Ganganzeige",
+		"count": 1
+	},
+	{
+		"typ": "Lichthalterung",
+		"count": 4
+	},
+	{
+		"typ": "Speiche Hinterrad",
+		"count": 8
+	},
+	{
+		"typ": "Lichthalterung alt",
+		"count": 3
+	},
+	{
+		"typ": "Schaltung einstellen",
+		"count": 6
+	},
+	{
+		"typ": "Reflektorstreifen",
+		"count": 10
+	},
+	{
+		"typ": "Gabel",
+		"count": 2
+	},
+	{
+		"typ": "Gabel (+Farbe)(automatisch)",
+		"count": 2
+	},
+	{
+		"typ": "Transponder",
+		"count": 4
+	},
+	{
+		"typ": "Vorderrad Shimano",
+		"count": 2
+	},
+	{
+		"typ": "Vorderradscheibe",
+		"count": 4
+	},
+	{
+		"typ": "Doppelsensor tauschen",
+		"count": 1
+	},
+	{
+		"typ": "Doppel-Sensor",
+		"count": 1
+	},
+	{
+		"typ": "Haken h�ngt",
+		"count": 2
+	},
+	{
+		"typ": "Pitlock vorne",
+		"count": 2
+	},
+	{
+		"typ": "Vorderrad SRAM",
+		"count": 3
+	},
+	{
+		"typ": "Sponsor �berpr�fen",
+		"count": 2
+	},
+	{
+		"typ": "Sensoren einstellen",
+		"count": 7
+	},
+	{
+		"typ": "Pallett-Sensor tauschen",
+		"count": 1
+	},
+	{
+		"typ": "Hook-Sensor tauschen",
+		"count": 4
+	},
+	{
+		"typ": "Pallett-Sensor",
+		"count": 1
+	},
+	{
+		"typ": "Hook-Sensor",
+		"count": 4
+	},
+	{
+		"typ": "Plastikhalterung",
+		"count": 2
+	},
+	{
+		"typ": "Rahmen",
+		"count": 3
+	},
+	{
+		"typ": "Kabelverbindungen",
+		"count": 1
+	},
+	{
+		"typ": "Zylinder",
+		"count": 1
+	},
+	{
+		"typ": "Lichthalterung neu",
+		"count": 1
+	},
+	{
+		"typ": "Schrumpfschlauch",
+		"count": 1
+	},
+	{
+		"typ": "Achsmutter hinten",
+		"count": 1
+	}]
+},
+{
+	"month": "MARCH",
+	"typ": [{
+		"typ": "Lichtkabel",
+		"count": 135
+	},
+	{
+		"typ": "Korb",
+		"count": 141
+	},
+	{
+		"typ": "Korbhalterung",
+		"count": 4
+	},
+	{
+		"typ": "Reifen Schwalbe 1,35",
+		"count": 11
+	},
+	{
+		"typ": "Sattel",
+		"count": 103
+	},
+	{
+		"typ": "Terminal Service",
+		"count": 45
+	},
+	{
+		"typ": "Boxenmechanik",
+		"count": 19
+	},
+	{
+		"typ": "abholen",
+		"count": 82
+	},
+	{
+		"typ": "Schadensmeldung",
+		"count": 580
+	},
+	{
+		"typ": "Pedale",
+		"count": 77
+	},
+	{
+		"typ": "Kette",
+		"count": 147
+	},
+	{
+		"typ": "Lenker",
+		"count": 110
+	},
+	{
+		"typ": "Steuerlager",
+		"count": 58
+	},
+	{
+		"typ": "Lenkersperre",
+		"count": 104
+	},
+	{
+		"typ": "Schlo� (komplett)",
+		"count": 17
+	},
+	{
+		"typ": "Schl�sselabdeckung",
+		"count": 8
+	},
+	{
+		"typ": "Sattelschnellspanner",
+		"count": 64
+	},
+	{
+		"typ": "Hinterrad",
+		"count": 168
+	},
+	{
+		"typ": "Licht",
+		"count": 142
+	},
+	{
+		"typ": "Klappe",
+		"count": 9
+	},
+	{
+		"typ": "Bremse",
+		"count": 52
+	},
+	{
+		"typ": "Bremsseil",
+		"count": 37
+	},
+	{
+		"typ": "Pedal rechts",
+		"count": 9
+	},
+	{
+		"typ": "Tretlager",
+		"count": 23
+	},
+	{
+		"typ": "Vorderrad",
+		"count": 45
+	},
+	{
+		"typ": "Reifen",
+		"count": 54
+	},
+	{
+		"typ": "Gummieinlage vorne",
+		"count": 12
+	},
+	{
+		"typ": "Speiche Hinterrad",
+		"count": 13
+	},
+	{
+		"typ": "Schaltung",
+		"count": 9
+	},
+	{
+		"typ": "Gummieinlage hinten",
+		"count": 30
+	},
+	{
+		"typ": "Schaltung einstellen",
+		"count": 12
+	},
+	{
+		"typ": "Schloss ausrichten",
+		"count": 21
+	},
+	{
+		"typ": "Schlossschrauben nachziehen",
+		"count": 16
+	},
+	{
+		"typ": "Vorbau",
+		"count": 5
+	},
+	{
+		"typ": "Sonstiges",
+		"count": 147
+	},
+	{
+		"typ": "Schutzblech",
+		"count": 33
+	},
+	{
+		"typ": "Seitenst�nder",
+		"count": 22
+	},
+	{
+		"typ": "Auto",
+		"count": 74
+	},
+	{
+		"typ": "Vollgummi-Einlage 1,35",
+		"count": 15
+	},
+	{
+		"typ": "Felgenband Vollgummi",
+		"count": 31
+	},
+	{
+		"typ": "Nabe 3-Gang",
+		"count": 2
+	},
+	{
+		"typ": "Schwalbe Gummieinlage 1,5",
+		"count": 23
+	},
+	{
+		"typ": "Schaltseil",
+		"count": 2
+	},
+	{
+		"typ": "Schaltbowde",
+		"count": 2
+	},
+	{
+		"typ": "Aufkleber",
+		"count": 4
+	},
+	{
+		"typ": "Boxenkleber Raiffeisen",
+		"count": 3
+	},
+	{
+		"typ": "Graffitti",
+		"count": 12
+	},
+	{
+		"typ": "entfernen",
+		"count": 10
+	},
+	{
+		"typ": "Box Service",
+		"count": 44
+	},
+	{
+		"typ": "Mechanik",
+		"count": 32
+	},
+	{
+		"typ": "Haken h�ngt",
+		"count": 2
+	},
+	{
+		"typ": "Klingel",
+		"count": 62
+	},
+	{
+		"typ": "Sattelst�tze",
+		"count": 10
+	},
+	{
+		"typ": "Extras",
+		"count": 76
+	},
+	{
+		"typ": "Entlehnung probieren",
+		"count": 71
+	},
+	{
+		"typ": "Pallett (Schlosshaken)",
+		"count": 17
+	},
+	{
+		"typ": "Haken gerade biegen",
+		"count": 51
+	},
+	{
+		"typ": "Zentrale anrufen",
+		"count": 3
+	},
+	{
+		"typ": "Licht hinten",
+		"count": 87
+	},
+	{
+		"typ": "R�cktritt",
+		"count": 6
+	},
+	{
+		"typ": "Rollenbremse",
+		"count": 15
+	},
+	{
+		"typ": "Kurbel rechts",
+		"count": 9
+	},
+	{
+		"typ": "Kurbel links",
+		"count": 18
+	},
+	{
+		"typ": "Nabe hinten",
+		"count": 59
+	},
+	{
+		"typ": "Bremshebel",
+		"count": 21
+	},
+	{
+		"typ": "Nabe Eingang",
+		"count": 34
+	},
+	{
+		"typ": "Dispenser",
+		"count": 11
+	},
+	{
+		"typ": "komplett",
+		"count": 4
+	},
+	{
+		"typ": "Schl�ssel",
+		"count": 6
+	},
+	{
+		"typ": "Zylinder",
+		"count": 2
+	},
+	{
+		"typ": "Boxenschlo�",
+		"count": 2
+	},
+	{
+		"typ": "schmieren",
+		"count": 1
+	},
+	{
+		"typ": "tauschen",
+		"count": 11
+	},
+	{
+		"typ": "Schutzblechb�gel",
+		"count": 16
+	},
+	{
+		"typ": "Licht vorne",
+		"count": 32
+	},
+	{
+		"typ": "Lenkstange",
+		"count": 19
+	},
+	{
+		"typ": "Dynamostecker",
+		"count": 1
+	},
+	{
+		"typ": "Knopf",
+		"count": 10
+	},
+	{
+		"typ": "komplett tauschen",
+		"count": 12
+	},
+	{
+		"typ": "bringen",
+		"count": 8
+	},
+	{
+		"typ": "Schwalbe Reifen 1,5",
+		"count": 22
+	},
+	{
+		"typ": "Vorderradscheibe",
+		"count": 18
+	},
+	{
+		"typ": "Rahmen",
+		"count": 2
+	},
+	{
+		"typ": "Sponsoraufkleber",
+		"count": 9
+	},
+	{
+		"typ": "Schaltst�bchen",
+		"count": 1
+	},
+	{
+		"typ": "Ganganzeige",
+		"count": 1
+	},
+	{
+		"typ": "Gr�ner Knopf",
+		"count": 4
+	},
+	{
+		"typ": "Klingelkl�ppel",
+		"count": 8
+	},
+	{
+		"typ": "Radnummer �berpr�fen",
+		"count": 1
+	},
+	{
+		"typ": "komplette Mechanik",
+		"count": 8
+	},
+	{
+		"typ": "Kettenschutz",
+		"count": 2
+	},
+	{
+		"typ": "Transponder",
+		"count": 12
+	},
+	{
+		"typ": "Reflektorstreifen",
+		"count": 4
+	},
+	{
+		"typ": "Geh�use Oberteil",
+		"count": 4
+	},
+	{
+		"typ": "Lichthalterung",
+		"count": 4
+	},
+	{
+		"typ": "zentrieren",
+		"count": 14
+	},
+	{
+		"typ": "Plastik",
+		"count": 20
+	},
+	{
+		"typ": "Deckel",
+		"count": 3
+	},
+	{
+		"typ": "Licht vorne Radius",
+		"count": 8
+	},
+	{
+		"typ": "Doppelsensor tauschen",
+		"count": 3
+	},
+	{
+		"typ": "Doppel-Sensor",
+		"count": 3
+	},
+	{
+		"typ": "Sensoren einstellen",
+		"count": 10
+	},
+	{
+		"typ": "Licht vorne Trelock",
+		"count": 7
+	},
+	{
+		"typ": "V-Brake",
+		"count": 11
+	},
+	{
+		"typ": "Bremsbowde",
+		"count": 4
+	},
+	{
+		"typ": "Lichthalterung alt",
+		"count": 1
+	},
+	{
+		"typ": "Pallett-Sensor tauschen",
+		"count": 2
+	},
+	{
+		"typ": "Hook-Sensor tauschen",
+		"count": 7
+	},
+	{
+		"typ": "Pallett-Sensor",
+		"count": 2
+	},
+	{
+		"typ": "Hook-Sensor",
+		"count": 7
+	},
+	{
+		"typ": "Pedal links",
+		"count": 11
+	},
+	{
+		"typ": "Plastik klein",
+		"count": 4
+	},
+	{
+		"typ": "Lenkergriff",
+		"count": 5
+	},
+	{
+		"typ": "im Terminal",
+		"count": 4
+	},
+	{
+		"typ": "Bremsschuhe",
+		"count": 9
+	},
+	{
+		"typ": "H�he einstellen",
+		"count": 5
+	},
+	{
+		"typ": "Dispenserdeckel",
+		"count": 3
+	},
+	{
+		"typ": "Achsmutter hinten",
+		"count": 4
+	},
+	{
+		"typ": "Verdrehsicherung",
+		"count": 1
+	},
+	{
+		"typ": "Gabel",
+		"count": 2
+	},
+	{
+		"typ": "Foto von Schaden machen",
+		"count": 1
+	},
+	{
+		"typ": "Vorderrad Shimano",
+		"count": 2
+	},
+	{
+		"typ": "Achsmutter vorne",
+		"count": 4
+	},
+	{
+		"typ": "Gabel (+Farbe)(automatisch)",
+		"count": 2
+	},
+	{
+		"typ": "Pitlock",
+		"count": 1
+	},
+	{
+		"typ": "Vordach tauschen",
+		"count": 2
+	},
+	{
+		"typ": "Dynamo",
+		"count": 1
+	},
+	{
+		"typ": "Steuerlager Kontermutter",
+		"count": 4
+	},
+	{
+		"typ": "Korbstrebe",
+		"count": 1
+	},
+	{
+		"typ": "Boxnummern-Kleber",
+		"count": 1
+	},
+	{
+		"typ": "Pitlock vorne",
+		"count": 1
+	},
+	{
+		"typ": "Knopf-Kleber",
+		"count": 2
+	},
+	{
+		"typ": "Hotline-Kleber  tauschen",
+		"count": 1
+	},
+	{
+		"typ": "Endmontage",
+		"count": 1
+	},
+	{
+		"typ": "Lichthalterung neu",
+		"count": 1
+	},
+	{
+		"typ": "Terminal T�re",
+		"count": 1
+	},
+	{
+		"typ": "Dichtungen �berpr�fen",
+		"count": 1
+	}]
+},
+{
+	"month": "APRIL",
+	"typ": [{
+		"typ": "Licht hinten",
+		"count": 105
+	},
+	{
+		"typ": "Schwalbe Reifen 1,5",
+		"count": 27
+	},
+	{
+		"typ": "Felgenband Vollgummi",
+		"count": 28
+	},
+	{
+		"typ": "Schwalbe Gummieinlage 1,5",
+		"count": 28
+	},
+	{
+		"typ": "Lichtkabel",
+		"count": 132
+	},
+	{
+		"typ": "Vollgummi-Einlage 1,35",
+		"count": 17
+	},
+	{
+		"typ": "Reifen Schwalbe 1,35",
+		"count": 16
+	},
+	{
+		"typ": "Nabe Eingang",
+		"count": 33
+	},
+	{
+		"typ": "Schadensmeldung",
+		"count": 1105
+	},
+	{
+		"typ": "Sattel",
+		"count": 250
+	},
+	{
+		"typ": "Sattelst�tze",
+		"count": 17
+	},
+	{
+		"typ": "Lenkersperre",
+		"count": 125
+	},
+	{
+		"typ": "Klappe",
+		"count": 25
+	},
+	{
+		"typ": "Sattelschnellspanner",
+		"count": 110
+	},
+	{
+		"typ": "Box Service",
+		"count": 118
+	},
+	{
+		"typ": "Mechanik",
+		"count": 33
+	},
+	{
+		"typ": "komplett tauschen",
+		"count": 8
+	},
+	{
+		"typ": "komplette Mechanik",
+		"count": 7
+	},
+	{
+		"typ": "Terminal Service",
+		"count": 50
+	},
+	{
+		"typ": "Boxenmechanik",
+		"count": 11
+	},
+	{
+		"typ": "im Terminal",
+		"count": 4
+	},
+	{
+		"typ": "abholen",
+		"count": 111
+	},
+	{
+		"typ": "Lenker",
+		"count": 212
+	},
+	{
+		"typ": "Steuerlager",
+		"count": 141
+	},
+	{
+		"typ": "Lenkstange",
+		"count": 16
+	},
+	{
+		"typ": "Klingel",
+		"count": 74
+	},
+	{
+		"typ": "Bremse",
+		"count": 117
+	},
+	{
+		"typ": "Bremsseil",
+		"count": 81
+	},
+	{
+		"typ": "Sonstiges",
+		"count": 335
+	},
+	{
+		"typ": "Sponsoraufkleber",
+		"count": 60
+	},
+	{
+		"typ": "Pedale",
+		"count": 165
+	},
+	{
+		"typ": "Kette",
+		"count": 290
+	},
+	{
+		"typ": "Licht",
+		"count": 182
+	},
+	{
+		"typ": "Korb",
+		"count": 266
+	},
+	{
+		"typ": "V-Brake",
+		"count": 18
+	},
+	{
+		"typ": "Schlo� (komplett)",
+		"count": 24
+	},
+	{
+		"typ": "Pallett (Schlosshaken)",
+		"count": 13
+	},
+	{
+		"typ": "Auto",
+		"count": 109
+	},
+	{
+		"typ": "Knopf",
+		"count": 7
+	},
+	{
+		"typ": "tauschen",
+		"count": 99
+	},
+	{
+		"typ": "Gr�ner Knopf",
+		"count": 7
+	},
+	{
+		"typ": "Hinterrad",
+		"count": 251
+	},
+	{
+		"typ": "Klingelkl�ppel",
+		"count": 13
+	},
+	{
+		"typ": "Licht vorne",
+		"count": 44
+	},
+	{
+		"typ": "Nabe hinten",
+		"count": 65
+	},
+	{
+		"typ": "Schloss ausrichten",
+		"count": 31
+	},
+	{
+		"typ": "Lichthalterung",
+		"count": 9
+	},
+	{
+		"typ": "Elektronic",
+		"count": 1
+	},
+	{
+		"typ": "Bikebox-Elektronik",
+		"count": 1
+	},
+	{
+		"typ": "Pedal links",
+		"count": 16
+	},
+	{
+		"typ": "Kurbel links",
+		"count": 31
+	},
+	{
+		"typ": "Vorderrad",
+		"count": 70
+	},
+	{
+		"typ": "Haken gerade biegen",
+		"count": 40
+	},
+	{
+		"typ": "Korbhalterung",
+		"count": 10
+	},
+	{
+		"typ": "Wechselpuffer",
+		"count": 1
+	},
+	{
+		"typ": "Tretlager",
+		"count": 26
+	},
+	{
+		"typ": "Rollenbremse",
+		"count": 28
+	},
+	{
+		"typ": "Schutzblech",
+		"count": 25
+	},
+	{
+		"typ": "bringen",
+		"count": 5
+	},
+	{
+		"typ": "Reifen",
+		"count": 40
+	},
+	{
+		"typ": "Gummieinlage hinten",
+		"count": 28
+	},
+	{
+		"typ": "Knopf-Kleber",
+		"count": 133
+	},
+	{
+		"typ": "Graffitti",
+		"count": 21
+	},
+	{
+		"typ": "entfernen",
+		"count": 21
+	},
+	{
+		"typ": "Licht vorne Trelock",
+		"count": 18
+	},
+	{
+		"typ": "Schlossschrauben nachziehen",
+		"count": 17
+	},
+	{
+		"typ": "Bremsbowde",
+		"count": 5
+	},
+	{
+		"typ": "Seitenst�nder",
+		"count": 43
+	},
+	{
+		"typ": "Felge",
+		"count": 7
+	},
+	{
+		"typ": "Schl�sselabdeckung",
+		"count": 6
+	},
+	{
+		"typ": "R�cktritt",
+		"count": 5
+	},
+	{
+		"typ": "Aufkleber",
+		"count": 9
+	},
+	{
+		"typ": "Citybike-Logo",
+		"count": 3
+	},
+	{
+		"typ": "Bildschirm",
+		"count": 1
+	},
+	{
+		"typ": "Plastikhalterung",
+		"count": 1
+	},
+	{
+		"typ": "Lenkergriff",
+		"count": 25
+	},
+	{
+		"typ": "Schaltung",
+		"count": 22
+	},
+	{
+		"typ": "Schaltgriff komplett",
+		"count": 2
+	},
+	{
+		"typ": "Schaltseil",
+		"count": 8
+	},
+	{
+		"typ": "H�he einstellen",
+		"count": 16
+	},
+	{
+		"typ": "Sensoren einstellen",
+		"count": 2
+	},
+	{
+		"typ": "Terminal T�re",
+		"count": 2
+	},
+	{
+		"typ": "Dichtungen �berpr�fen",
+		"count": 2
+	},
+	{
+		"typ": "Vorderradscheibe",
+		"count": 34
+	},
+	{
+		"typ": "Vorbau",
+		"count": 19
+	},
+	{
+		"typ": "Schaltung einstellen",
+		"count": 10
+	},
+	{
+		"typ": "Schutzblechb�gel",
+		"count": 14
+	},
+	{
+		"typ": "Kurbel rechts",
+		"count": 14
+	},
+	{
+		"typ": "Nabe 3-Gang",
+		"count": 6
+	},
+	{
+		"typ": "Gegenhalter",
+		"count": 1
+	},
+	{
+		"typ": "Transponder",
+		"count": 16
+	},
+	{
+		"typ": "Plastik",
+		"count": 25
+	},
+	{
+		"typ": "zentrieren",
+		"count": 17
+	},
+	{
+		"typ": "Bremshebel",
+		"count": 27
+	},
+	{
+		"typ": "Lichthalterung neu",
+		"count": 2
+	},
+	{
+		"typ": "Pitlock",
+		"count": 3
+	},
+	{
+		"typ": "Steuerlager Kontermutter",
+		"count": 2
+	},
+	{
+		"typ": "Gabel (+Farbe)(automatisch)",
+		"count": 7
+	},
+	{
+		"typ": "Zylinder",
+		"count": 6
+	},
+	{
+		"typ": "Vorderrad Shimano",
+		"count": 5
+	},
+	{
+		"typ": "Ritzel 18 Z�hne",
+		"count": 1
+	},
+	{
+		"typ": "Kettenschutz",
+		"count": 16
+	},
+	{
+		"typ": "Scharniere einstellen",
+		"count": 1
+	},
+	{
+		"typ": "Achsmutter vorne",
+		"count": 3
+	},
+	{
+		"typ": "Lichthalterung alt",
+		"count": 1
+	},
+	{
+		"typ": "Schaltgriff Gummi",
+		"count": 3
+	},
+	{
+		"typ": "Gummieinlage vorne",
+		"count": 11
+	},
+	{
+		"typ": "Reflektorstreifen",
+		"count": 5
+	},
+	{
+		"typ": "Rahmen",
+		"count": 6
+	},
+	{
+		"typ": "Plastik klein",
+		"count": 6
+	},
+	{
+		"typ": "Achsmutter hinten",
+		"count": 7
+	},
+	{
+		"typ": "Speiche Hinterrad",
+		"count": 7
+	},
+	{
+		"typ": "Ganganzeige",
+		"count": 6
+	},
+	{
+		"typ": "Pedal rechts",
+		"count": 3
+	},
+	{
+		"typ": "Extras",
+		"count": 59
+	},
+	{
+		"typ": "Entlehnung probieren",
+		"count": 43
+	},
+	{
+		"typ": "Gabel",
+		"count": 6
+	},
+	{
+		"typ": "Schaltbowde",
+		"count": 5
+	},
+	{
+		"typ": "Zentrale anrufen",
+		"count": 15
+	},
+	{
+		"typ": "Werbekleber",
+		"count": 22
+	},
+	{
+		"typ": "Hotline-Kleber  tauschen",
+		"count": 3
+	},
+	{
+		"typ": "Endmontage",
+		"count": 2
+	},
+	{
+		"typ": "Vorderrad SRAM",
+		"count": 1
+	},
+	{
+		"typ": "Dispenser",
+		"count": 6
+	},
+	{
+		"typ": "Deckel",
+		"count": 6
+	},
+	{
+		"typ": "Boxnummern-Kleber",
+		"count": 1
+	},
+	{
+		"typ": "Dispenserdeckel",
+		"count": 4
+	},
+	{
+		"typ": "Knopfkleber tauschen",
+		"count": 4
+	},
+	{
+		"typ": "Boxnummernkleber tauschen",
+		"count": 3
+	},
+	{
+		"typ": "Boxenkleber Raiffeisen",
+		"count": 4
+	},
+	{
+		"typ": "Licht vorne Radius",
+		"count": 2
+	},
+	{
+		"typ": "Speichen Vorderrad",
+		"count": 4
+	},
+	{
+		"typ": "Bremsschuhe",
+		"count": 5
+	},
+	{
+		"typ": "Schaltbox",
+		"count": 1
+	},
+	{
+		"typ": "Schl�ssel",
+		"count": 1
+	},
+	{
+		"typ": "Ganganzeige Indikator",
+		"count": 1
+	},
+	{
+		"typ": "Haken h�ngt",
+		"count": 6
+	},
+	{
+		"typ": "Radnummer �berpr�fen",
+		"count": 2
+	},
+	{
+		"typ": "Doppelsensor tauschen",
+		"count": 1
+	},
+	{
+		"typ": "Doppel-Sensor",
+		"count": 1
+	},
+	{
+		"typ": "Pitlock vorne",
+		"count": 2
+	},
+	{
+		"typ": "Schrumpfschlauch",
+		"count": 1
+	},
+	{
+		"typ": "Boxenkleber V�slauer",
+		"count": 1
+	}]
+},
+{
+	"month": "MAY",
+	"typ": [{
+		"typ": "Sattelschnellspanner",
+		"count": 161
+	},
+	{
+		"typ": "Lichtkabel",
+		"count": 82
+	},
+	{
+		"typ": "Korb",
+		"count": 391
+	},
+	{
+		"typ": "Sattelst�tze",
+		"count": 35
+	},
+	{
+		"typ": "Nabe Eingang",
+		"count": 34
+	},
+	{
+		"typ": "Plastik",
+		"count": 35
+	},
+	{
+		"typ": "Sponsoraufkleber",
+		"count": 27
+	},
+	{
+		"typ": "Schaltgriff komplett",
+		"count": 2
+	},
+	{
+		"typ": "Schaltseil",
+		"count": 5
+	},
+	{
+		"typ": "Schadensmeldung",
+		"count": 1494
+	},
+	{
+		"typ": "Sonstiges",
+		"count": 397
+	},
+	{
+		"typ": "Kette",
+		"count": 447
+	},
+	{
+		"typ": "Box Service",
+		"count": 61
+	},
+	{
+		"typ": "Mechanik",
+		"count": 30
+	},
+	{
+		"typ": "Haken h�ngt",
+		"count": 7
+	},
+	{
+		"typ": "Lenkersperre",
+		"count": 187
+	},
+	{
+		"typ": "Transponder",
+		"count": 13
+	},
+	{
+		"typ": "Sattel",
+		"count": 322
+	},
+	{
+		"typ": "Auto",
+		"count": 125
+	},
+	{
+		"typ": "abholen",
+		"count": 128
+	},
+	{
+		"typ": "Pedale",
+		"count": 257
+	},
+	{
+		"typ": "Hinterrad",
+		"count": 384
+	},
+	{
+		"typ": "Lenker",
+		"count": 254
+	},
+	{
+		"typ": "Klingel",
+		"count": 167
+	},
+	{
+		"typ": "Steuerlager",
+		"count": 108
+	},
+	{
+		"typ": "Bremse",
+		"count": 94
+	},
+	{
+		"typ": "V-Brake",
+		"count": 12
+	},
+	{
+		"typ": "Bremsseil",
+		"count": 63
+	},
+	{
+		"typ": "Schaltung",
+		"count": 29
+	},
+	{
+		"typ": "Terminal Service",
+		"count": 62
+	},
+	{
+		"typ": "Graffitti",
+		"count": 22
+	},
+	{
+		"typ": "entfernen",
+		"count": 22
+	},
+	{
+		"typ": "Nabe hinten",
+		"count": 82
+	},
+	{
+		"typ": "Felge",
+		"count": 6
+	},
+	{
+		"typ": "Nabe 3-Gang",
+		"count": 8
+	},
+	{
+		"typ": "Licht",
+		"count": 147
+	},
+	{
+		"typ": "Zylinder",
+		"count": 29
+	},
+	{
+		"typ": "Licht hinten",
+		"count": 76
+	},
+	{
+		"typ": "Vorderrad",
+		"count": 68
+	},
+	{
+		"typ": "Reifen",
+		"count": 29
+	},
+	{
+		"typ": "Gummieinlage vorne",
+		"count": 9
+	},
+	{
+		"typ": "Vorderradscheibe",
+		"count": 12
+	},
+	{
+		"typ": "Speiche Hinterrad",
+		"count": 8
+	},
+	{
+		"typ": "Gummieinlage hinten",
+		"count": 20
+	},
+	{
+		"typ": "Klappe",
+		"count": 23
+	},
+	{
+		"typ": "Lenkergriff",
+		"count": 16
+	},
+	{
+		"typ": "Seitenst�nder",
+		"count": 29
+	},
+	{
+		"typ": "Vollgummi-Einlage 1,35",
+		"count": 10
+	},
+	{
+		"typ": "Reifen Schwalbe 1,35",
+		"count": 9
+	},
+	{
+		"typ": "Schwalbe Reifen 1,5",
+		"count": 13
+	},
+	{
+		"typ": "Felgenband Vollgummi",
+		"count": 19
+	},
+	{
+		"typ": "Schwalbe Gummieinlage 1,5",
+		"count": 17
+	},
+	{
+		"typ": "Lichthalterung",
+		"count": 8
+	},
+	{
+		"typ": "Pitlock vorne",
+		"count": 8
+	},
+	{
+		"typ": "Schlo� (komplett)",
+		"count": 21
+	},
+	{
+		"typ": "Haken gerade biegen",
+		"count": 58
+	},
+	{
+		"typ": "Klingelkl�ppel",
+		"count": 32
+	},
+	{
+		"typ": "Achsmutter hinten",
+		"count": 19
+	},
+	{
+		"typ": "Licht vorne",
+		"count": 51
+	},
+	{
+		"typ": "Schloss ausrichten",
+		"count": 73
+	},
+	{
+		"typ": "Schrumpfschlauch",
+		"count": 3
+	},
+	{
+		"typ": "Schutzblechb�gel",
+		"count": 30
+	},
+	{
+		"typ": "Licht vorne Trelock",
+		"count": 18
+	},
+	{
+		"typ": "H�he einstellen",
+		"count": 1
+	},
+	{
+		"typ": "Aufkleber",
+		"count": 19
+	},
+	{
+		"typ": "Knopfkleber tauschen",
+		"count": 6
+	},
+	{
+		"typ": "Boxenkleber Raiffeisen",
+		"count": 8
+	},
+	{
+		"typ": "Schlossschrauben nachziehen",
+		"count": 47
+	},
+	{
+		"typ": "Pallett (Schlosshaken)",
+		"count": 10
+	},
+	{
+		"typ": "Kurbel links",
+		"count": 24
+	},
+	{
+		"typ": "Pedal links",
+		"count": 15
+	},
+	{
+		"typ": "Tretlager",
+		"count": 27
+	},
+	{
+		"typ": "Boxenmechanik",
+		"count": 10
+	},
+	{
+		"typ": "im Terminal",
+		"count": 3
+	},
+	{
+		"typ": "komplett tauschen",
+		"count": 5
+	},
+	{
+		"typ": "Citybike-Logo",
+		"count": 6
+	},
+	{
+		"typ": "Hotline-Kleber  tauschen",
+		"count": 3
+	},
+	{
+		"typ": "Schutzblech",
+		"count": 60
+	},
+	{
+		"typ": "Licht vorne Radius",
+		"count": 4
+	},
+	{
+		"typ": "Kettenschutz",
+		"count": 21
+	},
+	{
+		"typ": "Speichen Vorderrad",
+		"count": 2
+	},
+	{
+		"typ": "Schaltung einstellen",
+		"count": 27
+	},
+	{
+		"typ": "Doppelsensor tauschen",
+		"count": 3
+	},
+	{
+		"typ": "Knopf",
+		"count": 9
+	},
+	{
+		"typ": "tauschen",
+		"count": 33
+	},
+	{
+		"typ": "Dynamo",
+		"count": 2
+	},
+	{
+		"typ": "Achsmutter vorne",
+		"count": 12
+	},
+	{
+		"typ": "Knopf-Kleber",
+		"count": 29
+	},
+	{
+		"typ": "Extras",
+		"count": 105
+	},
+	{
+		"typ": "Entlehnung probieren",
+		"count": 101
+	},
+	{
+		"typ": "Schaltst�bchen",
+		"count": 4
+	},
+	{
+		"typ": "komplette Mechanik",
+		"count": 4
+	},
+	{
+		"typ": "bringen",
+		"count": 4
+	},
+	{
+		"typ": "Schl�ssel",
+		"count": 3
+	},
+	{
+		"typ": "Rollenbremse",
+		"count": 30
+	},
+	{
+		"typ": "Gabel",
+		"count": 6
+	},
+	{
+		"typ": "Bremshebel",
+		"count": 26
+	},
+	{
+		"typ": "Rahmen",
+		"count": 4
+	},
+	{
+		"typ": "Lenkstange",
+		"count": 15
+	},
+	{
+		"typ": "Dispenser",
+		"count": 11
+	},
+	{
+		"typ": "Deckel",
+		"count": 7
+	},
+	{
+		"typ": "zentrieren",
+		"count": 9
+	},
+	{
+		"typ": "Kurbel rechts",
+		"count": 14
+	},
+	{
+		"typ": "Ritzel",
+		"count": 1
+	},
+	{
+		"typ": "Elektronic",
+		"count": 3
+	},
+	{
+		"typ": "Bikebox-Elektronik",
+		"count": 3
+	},
+	{
+		"typ": "Schl�sselabdeckung",
+		"count": 3
+	},
+	{
+		"typ": "Korbhalterung",
+		"count": 16
+	},
+	{
+		"typ": "Steuerlager Kontermutter",
+		"count": 5
+	},
+	{
+		"typ": "komplett",
+		"count": 2
+	},
+	{
+		"typ": "Boxnummernkleber tauschen",
+		"count": 1
+	},
+	{
+		"typ": "Ganganzeige",
+		"count": 10
+	},
+	{
+		"typ": "Vorbau",
+		"count": 25
+	},
+	{
+		"typ": "Vorderrad Shimano",
+		"count": 3
+	},
+	{
+		"typ": "Pedal rechts",
+		"count": 11
+	},
+	{
+		"typ": "Gr�ner Knopf",
+		"count": 7
+	},
+	{
+		"typ": "Pitlock",
+		"count": 5
+	},
+	{
+		"typ": "Vorderrad SRAM",
+		"count": 2
+	},
+	{
+		"typ": "Bremsschuhe",
+		"count": 6
+	},
+	{
+		"typ": "Boxenschlo�",
+		"count": 1
+	},
+	{
+		"typ": "schmieren",
+		"count": 1
+	},
+	{
+		"typ": "Terminal T�re",
+		"count": 1
+	},
+	{
+		"typ": "Dichtungen �berpr�fen",
+		"count": 1
+	},
+	{
+		"typ": "Reflektorstreifen",
+		"count": 4
+	},
+	{
+		"typ": "Endmontage",
+		"count": 2
+	},
+	{
+		"typ": "Gabel (+Farbe)(automatisch)",
+		"count": 3
+	},
+	{
+		"typ": "Dispenserdeckel",
+		"count": 6
+	},
+	{
+		"typ": "Ganganzeige Indikator",
+		"count": 1
+	},
+	{
+		"typ": "Schaltbowde",
+		"count": 1
+	},
+	{
+		"typ": "Hook-Sensor tauschen",
+		"count": 7
+	},
+	{
+		"typ": "Bremsbowde",
+		"count": 1
+	},
+	{
+		"typ": "Boxnummern-Kleber",
+		"count": 1
+	},
+	{
+		"typ": "Sensoren einstellen",
+		"count": 11
+	},
+	{
+		"typ": "Hook-Sensor",
+		"count": 5
+	},
+	{
+		"typ": "Pallett-Sensor tauschen",
+		"count": 6
+	},
+	{
+		"typ": "Pallett-Sensor",
+		"count": 6
+	},
+	{
+		"typ": "R�cktritt",
+		"count": 3
+	},
+	{
+		"typ": "Doppel-Sensor",
+		"count": 1
+	},
+	{
+		"typ": "Zentrale anrufen",
+		"count": 1
+	},
+	{
+		"typ": "Plastik klein",
+		"count": 2
+	},
+	{
+		"typ": "Foto von Schaden machen",
+		"count": 1
+	},
+	{
+		"typ": "Verdrehsicherung",
+		"count": 1
+	},
+	{
+		"typ": "Geh�use Unterteil",
+		"count": 1
+	},
+	{
+		"typ": "Plastikhalterung",
+		"count": 1
+	},
+	{
+		"typ": "Schaltgriff Gummi",
+		"count": 1
+	},
+	{
+		"typ": "Gegenhalter",
+		"count": 1
+	},
+	{
+		"typ": "Werbekleber",
+		"count": 4
+	}]
+},
+{
+	"month": "JUNE",
+	"typ": [{
+		"typ": "Licht vorne Radius",
+		"count": 8
+	},
+	{
+		"typ": "Klingelkl�ppel",
+		"count": 26
+	},
+	{
+		"typ": "Sattel",
+		"count": 274
+	},
+	{
+		"typ": "Pedal links",
+		"count": 29
+	},
+	{
+		"typ": "Kurbel links",
+		"count": 38
+	},
+	{
+		"typ": "Nabe Eingang",
+		"count": 24
+	},
+	{
+		"typ": "Schwalbe Reifen 1,5",
+		"count": 15
+	},
+	{
+		"typ": "Felgenband Vollgummi",
+		"count": 12
+	},
+	{
+		"typ": "Schwalbe Gummieinlage 1,5",
+		"count": 15
+	},
+	{
+		"typ": "Kette",
+		"count": 352
+	},
+	{
+		"typ": "Schadensmeldung",
+		"count": 1296
+	},
+	{
+		"typ": "Hinterrad",
+		"count": 277
+	},
+	{
+		"typ": "Schaltung",
+		"count": 29
+	},
+	{
+		"typ": "Sattelschnellspanner",
+		"count": 124
+	},
+	{
+		"typ": "Licht",
+		"count": 114
+	},
+	{
+		"typ": "Lichtkabel",
+		"count": 71
+	},
+	{
+		"typ": "Bremse",
+		"count": 135
+	},
+	{
+		"typ": "Bremsseil",
+		"count": 68
+	},
+	{
+		"typ": "Lenker",
+		"count": 260
+	},
+	{
+		"typ": "Steuerlager",
+		"count": 124
+	},
+	{
+		"typ": "Sonstiges",
+		"count": 348
+	},
+	{
+		"typ": "Schutzblech",
+		"count": 40
+	},
+	{
+		"typ": "Schutzblechb�gel",
+		"count": 27
+	},
+	{
+		"typ": "abholen",
+		"count": 115
+	},
+	{
+		"typ": "Schaltung einstellen",
+		"count": 19
+	},
+	{
+		"typ": "Achsmutter hinten",
+		"count": 9
+	},
+	{
+		"typ": "Verdrehsicherung",
+		"count": 2
+	},
+	{
+		"typ": "Korb",
+		"count": 248
+	},
+	{
+		"typ": "Klingel",
+		"count": 137
+	},
+	{
+		"typ": "Pedale",
+		"count": 227
+	},
+	{
+		"typ": "Nabe hinten",
+		"count": 69
+	},
+	{
+		"typ": "Auto",
+		"count": 112
+	},
+	{
+		"typ": "Nabe 3-Gang",
+		"count": 9
+	},
+	{
+		"typ": "Vorderrad",
+		"count": 76
+	},
+	{
+		"typ": "Licht vorne",
+		"count": 37
+	},
+	{
+		"typ": "Licht hinten",
+		"count": 52
+	},
+	{
+		"typ": "Dynamostecker",
+		"count": 2
+	},
+	{
+		"typ": "Rollenbremse",
+		"count": 31
+	},
+	{
+		"typ": "Pitlock vorne",
+		"count": 4
+	},
+	{
+		"typ": "Pitlock",
+		"count": 1
+	},
+	{
+		"typ": "Lenkersperre",
+		"count": 121
+	},
+	{
+		"typ": "Schloss ausrichten",
+		"count": 50
+	},
+	{
+		"typ": "Klappe",
+		"count": 12
+	},
+	{
+		"typ": "Zylinder",
+		"count": 5
+	},
+	{
+		"typ": "Licht vorne Trelock",
+		"count": 13
+	},
+	{
+		"typ": "Pedal rechts",
+		"count": 10
+	},
+	{
+		"typ": "Kurbel rechts",
+		"count": 20
+	},
+	{
+		"typ": "Bremshebel",
+		"count": 37
+	},
+	{
+		"typ": "Seitenst�nder",
+		"count": 52
+	},
+	{
+		"typ": "Box Service",
+		"count": 48
+	},
+	{
+		"typ": "Knopf",
+		"count": 11
+	},
+	{
+		"typ": "tauschen",
+		"count": 21
+	},
+	{
+		"typ": "Boxenschlo�",
+		"count": 6
+	},
+	{
+		"typ": "schmieren",
+		"count": 1
+	},
+	{
+		"typ": "Gr�ner Knopf",
+		"count": 7
+	},
+	{
+		"typ": "Haken gerade biegen",
+		"count": 34
+	},
+	{
+		"typ": "Schl�sselabdeckung",
+		"count": 2
+	},
+	{
+		"typ": "V-Brake",
+		"count": 15
+	},
+	{
+		"typ": "zentrieren",
+		"count": 8
+	},
+	{
+		"typ": "Lenkstange",
+		"count": 5
+	},
+	{
+		"typ": "Tretlager",
+		"count": 14
+	},
+	{
+		"typ": "Bremsschuhe",
+		"count": 5
+	},
+	{
+		"typ": "Vorderradscheibe",
+		"count": 13
+	},
+	{
+		"typ": "Kettenschutz",
+		"count": 12
+	},
+	{
+		"typ": "Terminal Service",
+		"count": 55
+	},
+	{
+		"typ": "Aufkleber",
+		"count": 17
+	},
+	{
+		"typ": "Boxenkleber Raiffeisen",
+		"count": 7
+	},
+	{
+		"typ": "Sattelst�tze",
+		"count": 18
+	},
+	{
+		"typ": "Plastik",
+		"count": 27
+	},
+	{
+		"typ": "Transponder",
+		"count": 22
+	},
+	{
+		"typ": "Plastik klein",
+		"count": 3
+	},
+	{
+		"typ": "Schrumpfschlauch",
+		"count": 2
+	},
+	{
+		"typ": "Dispenser",
+		"count": 9
+	},
+	{
+		"typ": "komplett",
+		"count": 2
+	},
+	{
+		"typ": "Graffitti",
+		"count": 25
+	},
+	{
+		"typ": "entfernen",
+		"count": 25
+	},
+	{
+		"typ": "Mechanik",
+		"count": 26
+	},
+	{
+		"typ": "komplett tauschen",
+		"count": 4
+	},
+	{
+		"typ": "komplette Mechanik",
+		"count": 4
+	},
+	{
+		"typ": "Schlossschrauben nachziehen",
+		"count": 26
+	},
+	{
+		"typ": "Lenkergriff",
+		"count": 22
+	},
+	{
+		"typ": "Schaltgriff Gummi",
+		"count": 3
+	},
+	{
+		"typ": "Boxenmechanik",
+		"count": 5
+	},
+	{
+		"typ": "bringen",
+		"count": 1
+	},
+	{
+		"typ": "im Terminal",
+		"count": 3
+	},
+	{
+		"typ": "Achsmutter vorne",
+		"count": 12
+	},
+	{
+		"typ": "R�cktritt",
+		"count": 6
+	},
+	{
+		"typ": "Speiche Hinterrad",
+		"count": 6
+	},
+	{
+		"typ": "Gummieinlage hinten",
+		"count": 14
+	},
+	{
+		"typ": "Schlo� (komplett)",
+		"count": 6
+	},
+	{
+		"typ": "Reifen",
+		"count": 39
+	},
+	{
+		"typ": "Ganganzeige",
+		"count": 4
+	},
+	{
+		"typ": "Pallett (Schlosshaken)",
+		"count": 2
+	},
+	{
+		"typ": "Haken h�ngt",
+		"count": 10
+	},
+	{
+		"typ": "Vorbau",
+		"count": 18
+	},
+	{
+		"typ": "Lichthalterung",
+		"count": 7
+	},
+	{
+		"typ": "Werbekleber",
+		"count": 1
+	},
+	{
+		"typ": "Boxnummernkleber tauschen",
+		"count": 3
+	},
+	{
+		"typ": "Citybike-Logo",
+		"count": 2
+	},
+	{
+		"typ": "Knopfkleber tauschen",
+		"count": 6
+	},
+	{
+		"typ": "H�he einstellen",
+		"count": 7
+	},
+	{
+		"typ": "Sponsoraufkleber",
+		"count": 8
+	},
+	{
+		"typ": "Korbhalterung",
+		"count": 7
+	},
+	{
+		"typ": "Deckel",
+		"count": 5
+	},
+	{
+		"typ": "Dispenserdeckel",
+		"count": 5
+	},
+	{
+		"typ": "Boxnummern-Kleber",
+		"count": 2
+	},
+	{
+		"typ": "Plastikhalterung",
+		"count": 1
+	},
+	{
+		"typ": "Bremsbowde",
+		"count": 2
+	},
+	{
+		"typ": "Rahmen",
+		"count": 1
+	},
+	{
+		"typ": "Gummieinlage vorne",
+		"count": 7
+	},
+	{
+		"typ": "Vollgummi-Einlage 1,35",
+		"count": 8
+	},
+	{
+		"typ": "Reifen Schwalbe 1,35",
+		"count": 10
+	},
+	{
+		"typ": "Schaltbox",
+		"count": 3
+	},
+	{
+		"typ": "Extras",
+		"count": 39
+	},
+	{
+		"typ": "Entlehnung probieren",
+		"count": 38
+	},
+	{
+		"typ": "Schaltgriff komplett",
+		"count": 4
+	},
+	{
+		"typ": "Ganganzeige Indikator",
+		"count": 1
+	},
+	{
+		"typ": "Schaltseil",
+		"count": 2
+	},
+	{
+		"typ": "Felge",
+		"count": 2
+	},
+	{
+		"typ": "Doppelsensor tauschen",
+		"count": 3
+	},
+	{
+		"typ": "Doppel-Sensor",
+		"count": 3
+	},
+	{
+		"typ": "Speichen Vorderrad",
+		"count": 1
+	},
+	{
+		"typ": "Vorderrad SRAM",
+		"count": 1
+	},
+	{
+		"typ": "Reflektorstreifen",
+		"count": 3
+	},
+	{
+		"typ": "Zentrale anrufen",
+		"count": 1
+	},
+	{
+		"typ": "Elektronic",
+		"count": 2
+	},
+	{
+		"typ": "Bikebox-Elektronik",
+		"count": 2
+	},
+	{
+		"typ": "Schaltst�bchen",
+		"count": 2
+	},
+	{
+		"typ": "Vorderrad Shimano",
+		"count": 1
+	},
+	{
+		"typ": "Bildschirm",
+		"count": 1
+	},
+	{
+		"typ": "Bildschirm kalibrieren",
+		"count": 1
+	},
+	{
+		"typ": "Gabel",
+		"count": 4
+	},
+	{
+		"typ": "Ritzel",
+		"count": 1
+	},
+	{
+		"typ": "Ritzel 20 Z�hne",
+		"count": 1
+	},
+	{
+		"typ": "Knopf-Kleber",
+		"count": 8
+	},
+	{
+		"typ": "Hotline-Kleber  tauschen",
+		"count": 1
+	}]
+},
+{
+	"month": "JULY",
+	"typ": [{
+		"typ": "Licht vorne Trelock",
+		"count": 18
+	},
+	{
+		"typ": "Gabel (+Farbe)(automatisch)",
+		"count": 4
+	},
+	{
+		"typ": "Korb",
+		"count": 320
+	},
+	{
+		"typ": "Sattelschnellspanner",
+		"count": 219
+	},
+	{
+		"typ": "Nabe Eingang",
+		"count": 23
+	},
+	{
+		"typ": "Kette",
+		"count": 339
+	},
+	{
+		"typ": "Schwalbe Reifen 1,5",
+		"count": 19
+	},
+	{
+		"typ": "Schwalbe Gummieinlage 1,5",
+		"count": 16
+	},
+	{
+		"typ": "Bremsseil",
+		"count": 39
+	},
+	{
+		"typ": "Schadensmeldung",
+		"count": 1656
+	},
+	{
+		"typ": "Lenkersperre",
+		"count": 142
+	},
+	{
+		"typ": "Sattel",
+		"count": 396
+	},
+	{
+		"typ": "Box Service",
+		"count": 87
+	},
+	{
+		"typ": "Mechanik",
+		"count": 40
+	},
+	{
+		"typ": "Haken h�ngt",
+		"count": 13
+	},
+	{
+		"typ": "Licht",
+		"count": 142
+	},
+	{
+		"typ": "Lichtkabel",
+		"count": 75
+	},
+	{
+		"typ": "Hinterrad",
+		"count": 321
+	},
+	{
+		"typ": "Nabe hinten",
+		"count": 68
+	},
+	{
+		"typ": "Reifen",
+		"count": 43
+	},
+	{
+		"typ": "Gummieinlage hinten",
+		"count": 24
+	},
+	{
+		"typ": "Sonstiges",
+		"count": 461
+	},
+	{
+		"typ": "Plastik",
+		"count": 31
+	},
+	{
+		"typ": "Felgenband Vollgummi",
+		"count": 15
+	},
+	{
+		"typ": "Pedale",
+		"count": 192
+	},
+	{
+		"typ": "Lenker",
+		"count": 311
+	},
+	{
+		"typ": "Klingel",
+		"count": 190
+	},
+	{
+		"typ": "Klingelkl�ppel",
+		"count": 27
+	},
+	{
+		"typ": "Bremse",
+		"count": 123
+	},
+	{
+		"typ": "Rollenbremse",
+		"count": 54
+	},
+	{
+		"typ": "Steuerlager",
+		"count": 141
+	},
+	{
+		"typ": "Kettenschutz",
+		"count": 32
+	},
+	{
+		"typ": "Seitenst�nder",
+		"count": 67
+	},
+	{
+		"typ": "Terminal Service",
+		"count": 66
+	},
+	{
+		"typ": "Dispenser",
+		"count": 17
+	},
+	{
+		"typ": "Deckel",
+		"count": 13
+	},
+	{
+		"typ": "Dispenserdeckel",
+		"count": 13
+	},
+	{
+		"typ": "Aufkleber",
+		"count": 25
+	},
+	{
+		"typ": "Knopfkleber tauschen",
+		"count": 21
+	},
+	{
+		"typ": "Knopf",
+		"count": 21
+	},
+	{
+		"typ": "tauschen",
+		"count": 43
+	},
+	{
+		"typ": "Gr�ner Knopf",
+		"count": 19
+	},
+	{
+		"typ": "Schloss ausrichten",
+		"count": 46
+	},
+	{
+		"typ": "Haken gerade biegen",
+		"count": 25
+	},
+	{
+		"typ": "Schutzblech",
+		"count": 52
+	},
+	{
+		"typ": "Schutzblechb�gel",
+		"count": 48
+	},
+	{
+		"typ": "Bremshebel",
+		"count": 14
+	},
+	{
+		"typ": "Pedal links",
+		"count": 21
+	},
+	{
+		"typ": "Kurbel rechts",
+		"count": 18
+	},
+	{
+		"typ": "Kurbel links",
+		"count": 33
+	},
+	{
+		"typ": "Gabel",
+		"count": 7
+	},
+	{
+		"typ": "Auto",
+		"count": 137
+	},
+	{
+		"typ": "abholen",
+		"count": 140
+	},
+	{
+		"typ": "Rahmen",
+		"count": 16
+	},
+	{
+		"typ": "Schlossschrauben nachziehen",
+		"count": 29
+	},
+	{
+		"typ": "Licht vorne",
+		"count": 52
+	},
+	{
+		"typ": "Vorderrad",
+		"count": 89
+	},
+	{
+		"typ": "Gummieinlage vorne",
+		"count": 12
+	},
+	{
+		"typ": "Vollgummi-Einlage 1,35",
+		"count": 12
+	},
+	{
+		"typ": "Reifen Schwalbe 1,35",
+		"count": 8
+	},
+	{
+		"typ": "Schaltung",
+		"count": 51
+	},
+	{
+		"typ": "Ganganzeige",
+		"count": 19
+	},
+	{
+		"typ": "Klappe",
+		"count": 26
+	},
+	{
+		"typ": "V-Brake",
+		"count": 22
+	},
+	{
+		"typ": "Bremsschuhe",
+		"count": 2
+	},
+	{
+		"typ": "Extras",
+		"count": 59
+	},
+	{
+		"typ": "Radnummer �berpr�fen",
+		"count": 8
+	},
+	{
+		"typ": "Licht hinten",
+		"count": 46
+	},
+	{
+		"typ": "Graffitti",
+		"count": 12
+	},
+	{
+		"typ": "entfernen",
+		"count": 12
+	},
+	{
+		"typ": "Sponsoraufkleber",
+		"count": 17
+	},
+	{
+		"typ": "zentrieren",
+		"count": 8
+	},
+	{
+		"typ": "Pedal rechts",
+		"count": 9
+	},
+	{
+		"typ": "Transponder",
+		"count": 26
+	},
+	{
+		"typ": "Lichthalterung neu",
+		"count": 1
+	},
+	{
+		"typ": "Lichthalterung",
+		"count": 6
+	},
+	{
+		"typ": "Ritzel",
+		"count": 2
+	},
+	{
+		"typ": "Schlo� (komplett)",
+		"count": 5
+	},
+	{
+		"typ": "Dynamostecker",
+		"count": 3
+	},
+	{
+		"typ": "Boxnummernkleber tauschen",
+		"count": 5
+	},
+	{
+		"typ": "Zylinder",
+		"count": 6
+	},
+	{
+		"typ": "Tretlager",
+		"count": 21
+	},
+	{
+		"typ": "Schaltung einstellen",
+		"count": 13
+	},
+	{
+		"typ": "Terminal-Nummer",
+		"count": 1
+	},
+	{
+		"typ": "Korbhalterung",
+		"count": 25
+	},
+	{
+		"typ": "Lenkergriff",
+		"count": 12
+	},
+	{
+		"typ": "Citybike-Logo",
+		"count": 1
+	},
+	{
+		"typ": "Speiche Hinterrad",
+		"count": 5
+	},
+	{
+		"typ": "Felge",
+		"count": 3
+	},
+	{
+		"typ": "komplett tauschen",
+		"count": 8
+	},
+	{
+		"typ": "komplette Mechanik",
+		"count": 7
+	},
+	{
+		"typ": "Boxenmechanik",
+		"count": 13
+	},
+	{
+		"typ": "bringen",
+		"count": 8
+	},
+	{
+		"typ": "Doppelsensor tauschen",
+		"count": 5
+	},
+	{
+		"typ": "Doppel-Sensor",
+		"count": 3
+	},
+	{
+		"typ": "Dynamo",
+		"count": 2
+	},
+	{
+		"typ": "Pallett (Schlosshaken)",
+		"count": 4
+	},
+	{
+		"typ": "Steuerlager Kontermutter",
+		"count": 1
+	},
+	{
+		"typ": "Nabe 3-Gang",
+		"count": 6
+	},
+	{
+		"typ": "Bremsbowde",
+		"count": 7
+	},
+	{
+		"typ": "Schaltst�bchen",
+		"count": 3
+	},
+	{
+		"typ": "Licht vorne Radius",
+		"count": 7
+	},
+	{
+		"typ": "Schaltbowde",
+		"count": 3
+	},
+	{
+		"typ": "Achsmutter vorne",
+		"count": 21
+	},
+	{
+		"typ": "Entlehnung probieren",
+		"count": 43
+	},
+	{
+		"typ": "Schrumpfschlauch",
+		"count": 4
+	},
+	{
+		"typ": "R�cktritt",
+		"count": 7
+	},
+	{
+		"typ": "Reflektorstreifen",
+		"count": 12
+	},
+	{
+		"typ": "Schaltgriff komplett",
+		"count": 2
+	},
+	{
+		"typ": "Ganganzeige Indikator",
+		"count": 3
+	},
+	{
+		"typ": "Schl�sselabdeckung",
+		"count": 11
+	},
+	{
+		"typ": "Achsmutter hinten",
+		"count": 10
+	},
+	{
+		"typ": "Schaltgriff Gummi",
+		"count": 5
+	},
+	{
+		"typ": "Schaltseil",
+		"count": 4
+	},
+	{
+		"typ": "Schaltbox",
+		"count": 2
+	},
+	{
+		"typ": "komplett",
+		"count": 2
+	},
+	{
+		"typ": "Boxnummern-Kleber",
+		"count": 3
+	},
+	{
+		"typ": "Knopf-Kleber",
+		"count": 26
+	},
+	{
+		"typ": "Pitlock vorne",
+		"count": 5
+	},
+	{
+		"typ": "Vorderradscheibe",
+		"count": 8
+	},
+	{
+		"typ": "Schl�ssel",
+		"count": 7
+	},
+	{
+		"typ": "Ritzel 18 Z�hne",
+		"count": 1
+	},
+	{
+		"typ": "Vorbau",
+		"count": 6
+	},
+	{
+		"typ": "Terminal T�re",
+		"count": 1
+	},
+	{
+		"typ": "Scharniere einstellen",
+		"count": 1
+	},
+	{
+		"typ": "Dichtungen �berpr�fen",
+		"count": 1
+	},
+	{
+		"typ": "H�he einstellen",
+		"count": 14
+	},
+	{
+		"typ": "Plastikhalterung",
+		"count": 2
+	},
+	{
+		"typ": "Plastik klein",
+		"count": 2
+	},
+	{
+		"typ": "Lenkstange",
+		"count": 3
+	},
+	{
+		"typ": "Boxenschlo�",
+		"count": 3
+	},
+	{
+		"typ": "schmieren",
+		"count": 2
+	},
+	{
+		"typ": "Sattelst�tze",
+		"count": 22
+	},
+	{
+		"typ": "im Terminal",
+		"count": 4
+	},
+	{
+		"typ": "Elektronic",
+		"count": 5
+	},
+	{
+		"typ": "Bikebox-Elektronik",
+		"count": 4
+	},
+	{
+		"typ": "Pitlock",
+		"count": 1
+	},
+	{
+		"typ": "Speichen Vorderrad",
+		"count": 4
+	},
+	{
+		"typ": "Vorderrad SRAM",
+		"count": 1
+	},
+	{
+		"typ": "Ritzel 20 Z�hne",
+		"count": 1
+	},
+	{
+		"typ": "Schlo� komplett",
+		"count": 1
+	},
+	{
+		"typ": "Korbstrebe",
+		"count": 3
+	},
+	{
+		"typ": "Sensoren einstellen",
+		"count": 1
+	},
+	{
+		"typ": "Verdrehsicherung",
+		"count": 2
+	},
+	{
+		"typ": "Zentrale anrufen",
+		"count": 1
+	},
+	{
+		"typ": "Endmontage",
+		"count": 6
+	},
+	{
+		"typ": "Lichthalterung alt",
+		"count": 2
+	}]
+},
+{
+	"month": "AUGUST",
+	"typ": [{
+		"typ": "Schaltgriff Gummi",
+		"count": 6
+	},
+	{
+		"typ": "Schaltseil",
+		"count": 3
+	},
+	{
+		"typ": "Schaltbowde",
+		"count": 1
+	},
+	{
+		"typ": "Sattelschnellspanner",
+		"count": 157
+	},
+	{
+		"typ": "Nabe 3-Gang",
+		"count": 6
+	},
+	{
+		"typ": "Korb",
+		"count": 356
+	},
+	{
+		"typ": "Sponsoraufkleber",
+		"count": 11
+	},
+	{
+		"typ": "Vollgummi-Einlage 1,35",
+		"count": 13
+	},
+	{
+		"typ": "Reifen Schwalbe 1,35",
+		"count": 10
+	},
+	{
+		"typ": "Pedal rechts",
+		"count": 11
+	},
+	{
+		"typ": "Kurbel rechts",
+		"count": 21
+	},
+	{
+		"typ": "Vorderradscheibe",
+		"count": 15
+	},
+	{
+		"typ": "Felge",
+		"count": 4
+	},
+	{
+		"typ": "Schwalbe Reifen 1,5",
+		"count": 16
+	},
+	{
+		"typ": "Felgenband Vollgummi",
+		"count": 9
+	},
+	{
+		"typ": "Reflektorstreifen",
+		"count": 5
+	},
+	{
+		"typ": "Ritzel 18 Z�hne",
+		"count": 1
+	},
+	{
+		"typ": "Schadensmeldung",
+		"count": 1415
+	},
+	{
+		"typ": "Licht",
+		"count": 125
+	},
+	{
+		"typ": "Licht hinten",
+		"count": 55
+	},
+	{
+		"typ": "Sonstiges",
+		"count": 409
+	},
+	{
+		"typ": "Sattel",
+		"count": 317
+	},
+	{
+		"typ": "Lenkersperre",
+		"count": 124
+	},
+	{
+		"typ": "Transponder",
+		"count": 14
+	},
+	{
+		"typ": "Auto",
+		"count": 93
+	},
+	{
+		"typ": "abholen",
+		"count": 96
+	},
+	{
+		"typ": "Pedale",
+		"count": 136
+	},
+	{
+		"typ": "Kette",
+		"count": 185
+	},
+	{
+		"typ": "Hinterrad",
+		"count": 175
+	},
+	{
+		"typ": "Lichtkabel",
+		"count": 63
+	},
+	{
+		"typ": "Lenker",
+		"count": 238
+	},
+	{
+		"typ": "Klingel",
+		"count": 153
+	},
+	{
+		"typ": "Klingelkl�ppel",
+		"count": 37
+	},
+	{
+		"typ": "Licht vorne",
+		"count": 47
+	},
+	{
+		"typ": "Licht vorne Trelock",
+		"count": 13
+	},
+	{
+		"typ": "Dynamo",
+		"count": 2
+	},
+	{
+		"typ": "Nabe hinten",
+		"count": 48
+	},
+	{
+		"typ": "Plastik",
+		"count": 20
+	},
+	{
+		"typ": "Licht vorne Radius",
+		"count": 5
+	},
+	{
+		"typ": "Nabe Eingang",
+		"count": 18
+	},
+	{
+		"typ": "Reifen",
+		"count": 38
+	},
+	{
+		"typ": "Extras",
+		"count": 151
+	},
+	{
+		"typ": "Endmontage",
+		"count": 65
+	},
+	{
+		"typ": "Lichthalterung",
+		"count": 6
+	},
+	{
+		"typ": "Bremse",
+		"count": 112
+	},
+	{
+		"typ": "Rollenbremse",
+		"count": 24
+	},
+	{
+		"typ": "Bremshebel",
+		"count": 23
+	},
+	{
+		"typ": "Bremsseil",
+		"count": 74
+	},
+	{
+		"typ": "Bremsbowde",
+		"count": 3
+	},
+	{
+		"typ": "Kurbel links",
+		"count": 24
+	},
+	{
+		"typ": "Vorderrad",
+		"count": 72
+	},
+	{
+		"typ": "Pitlock vorne",
+		"count": 7
+	},
+	{
+		"typ": "Schrumpfschlauch",
+		"count": 1
+	},
+	{
+		"typ": "Lenkergriff",
+		"count": 14
+	},
+	{
+		"typ": "Vorbau",
+		"count": 8
+	},
+	{
+		"typ": "Steuerlager",
+		"count": 87
+	},
+	{
+		"typ": "Gabel",
+		"count": 2
+	},
+	{
+		"typ": "Schutzblech",
+		"count": 40
+	},
+	{
+		"typ": "Schutzblechb�gel",
+		"count": 49
+	},
+	{
+		"typ": "Kettenschutz",
+		"count": 30
+	},
+	{
+		"typ": "Seitenst�nder",
+		"count": 58
+	},
+	{
+		"typ": "Lichthalterung neu",
+		"count": 2
+	},
+	{
+		"typ": "Vorderrad SRAM",
+		"count": 3
+	},
+	{
+		"typ": "Pitlock",
+		"count": 5
+	},
+	{
+		"typ": "Gabel (+Farbe)(automatisch)",
+		"count": 1
+	},
+	{
+		"typ": "Plastikhalterung",
+		"count": 3
+	},
+	{
+		"typ": "Box Service",
+		"count": 77
+	},
+	{
+		"typ": "Mechanik",
+		"count": 51
+	},
+	{
+		"typ": "H�he einstellen",
+		"count": 25
+	},
+	{
+		"typ": "Schaltung",
+		"count": 44
+	},
+	{
+		"typ": "Ganganzeige",
+		"count": 12
+	},
+	{
+		"typ": "Schl�sselabdeckung",
+		"count": 19
+	},
+	{
+		"typ": "Knopf",
+		"count": 17
+	},
+	{
+		"typ": "tauschen",
+		"count": 25
+	},
+	{
+		"typ": "Gr�ner Knopf",
+		"count": 14
+	},
+	{
+		"typ": "Schloss ausrichten",
+		"count": 44
+	},
+	{
+		"typ": "Pedal links",
+		"count": 15
+	},
+	{
+		"typ": "Gummieinlage hinten",
+		"count": 13
+	},
+	{
+		"typ": "Haken gerade biegen",
+		"count": 31
+	},
+	{
+		"typ": "Schwalbe Gummieinlage 1,5",
+		"count": 12
+	},
+	{
+		"typ": "Pallett (Schlosshaken)",
+		"count": 14
+	},
+	{
+		"typ": "Haken h�ngt",
+		"count": 15
+	},
+	{
+		"typ": "Terminal Service",
+		"count": 50
+	},
+	{
+		"typ": "Bildschirm",
+		"count": 3
+	},
+	{
+		"typ": "Bildschirm kalibrieren",
+		"count": 2
+	},
+	{
+		"typ": "Bankkarten-Modul",
+		"count": 4
+	},
+	{
+		"typ": "Kartenleser reinigen",
+		"count": 4
+	},
+	{
+		"typ": "komplett tauschen",
+		"count": 9
+	},
+	{
+		"typ": "komplette Mechanik",
+		"count": 7
+	},
+	{
+		"typ": "Boxenmechanik",
+		"count": 11
+	},
+	{
+		"typ": "bringen",
+		"count": 7
+	},
+	{
+		"typ": "Rahmen",
+		"count": 3
+	},
+	{
+		"typ": "Graffitti",
+		"count": 12
+	},
+	{
+		"typ": "entfernen",
+		"count": 12
+	},
+	{
+		"typ": "Korbhalterung",
+		"count": 20
+	},
+	{
+		"typ": "Aufkleber",
+		"count": 3
+	},
+	{
+		"typ": "Knopfkleber tauschen",
+		"count": 2
+	},
+	{
+		"typ": "Zylinder",
+		"count": 6
+	},
+	{
+		"typ": "Schlossschrauben nachziehen",
+		"count": 35
+	},
+	{
+		"typ": "Tretlager",
+		"count": 15
+	},
+	{
+		"typ": "Schlo� (komplett)",
+		"count": 7
+	},
+	{
+		"typ": "Geh�use Oberteil",
+		"count": 1
+	},
+	{
+		"typ": "Entlehnung probieren",
+		"count": 85
+	},
+	{
+		"typ": "Achsmutter vorne",
+		"count": 12
+	},
+	{
+		"typ": "Gummieinlage vorne",
+		"count": 10
+	},
+	{
+		"typ": "Sattelst�tze",
+		"count": 44
+	},
+	{
+		"typ": "Speiche Hinterrad",
+		"count": 7
+	},
+	{
+		"typ": "Klappe",
+		"count": 14
+	},
+	{
+		"typ": "Speichen Vorderrad",
+		"count": 4
+	},
+	{
+		"typ": "V-Brake",
+		"count": 14
+	},
+	{
+		"typ": "zentrieren",
+		"count": 14
+	},
+	{
+		"typ": "Vorderrad Shimano",
+		"count": 1
+	},
+	{
+		"typ": "Dispenser",
+		"count": 20
+	},
+	{
+		"typ": "Deckel",
+		"count": 14
+	},
+	{
+		"typ": "Dispenserdeckel",
+		"count": 14
+	},
+	{
+		"typ": "Korbstrebe",
+		"count": 3
+	},
+	{
+		"typ": "R�cktritt",
+		"count": 3
+	},
+	{
+		"typ": "Ganganzeige Indikator",
+		"count": 4
+	},
+	{
+		"typ": "Bremsschuhe",
+		"count": 9
+	},
+	{
+		"typ": "Doppelsensor tauschen",
+		"count": 3
+	},
+	{
+		"typ": "Doppel-Sensor",
+		"count": 3
+	},
+	{
+		"typ": "Schaltgriff komplett",
+		"count": 2
+	},
+	{
+		"typ": "Lenkstange",
+		"count": 15
+	},
+	{
+		"typ": "Achsmutter hinten",
+		"count": 7
+	},
+	{
+		"typ": "Elektronic",
+		"count": 1
+	},
+	{
+		"typ": "Bikebox-Elektronik",
+		"count": 1
+	},
+	{
+		"typ": "im Terminal",
+		"count": 3
+	},
+	{
+		"typ": "Schaltung einstellen",
+		"count": 9
+	},
+	{
+		"typ": "komplett",
+		"count": 3
+	},
+	{
+		"typ": "Lichthalterung alt",
+		"count": 3
+	},
+	{
+		"typ": "Zentrale anrufen",
+		"count": 2
+	},
+	{
+		"typ": "Foto von Schaden machen",
+		"count": 1
+	},
+	{
+		"typ": "Boxnummernkleber tauschen",
+		"count": 2
+	},
+	{
+		"typ": "Schl�ssel",
+		"count": 1
+	},
+	{
+		"typ": "Werbekleber",
+		"count": 2
+	},
+	{
+		"typ": "Boxnummern-Kleber",
+		"count": 4
+	},
+	{
+		"typ": "Knopf-Kleber",
+		"count": 6
+	},
+	{
+		"typ": "Bildschirm resetieren",
+		"count": 2
+	},
+	{
+		"typ": "Schaltst�bchen",
+		"count": 1
+	},
+	{
+		"typ": "Radnummer �berpr�fen",
+		"count": 1
+	},
+	{
+		"typ": "Gegenhalter",
+		"count": 1
+	},
+	{
+		"typ": "Terminal T�re",
+		"count": 1
+	},
+	{
+		"typ": "Dichtungen �berpr�fen",
+		"count": 1
+	},
+	{
+		"typ": "Verdrehsicherung",
+		"count": 1
+	},
+	{
+		"typ": "Dynamostecker",
+		"count": 1
+	}]
+},
+{
+	"month": "SEPTEMBER",
+	"typ": [{
+		"typ": "Transponder",
+		"count": 23
+	},
+	{
+		"typ": "Sattel",
+		"count": 235
+	},
+	{
+		"typ": "Korb",
+		"count": 315
+	},
+	{
+		"typ": "Licht hinten",
+		"count": 47
+	},
+	{
+		"typ": "Terminal Service",
+		"count": 52
+	},
+	{
+		"typ": "Graffitti",
+		"count": 24
+	},
+	{
+		"typ": "entfernen",
+		"count": 22
+	},
+	{
+		"typ": "Schadensmeldung",
+		"count": 1210
+	},
+	{
+		"typ": "Lenkersperre",
+		"count": 133
+	},
+	{
+		"typ": "Auto",
+		"count": 103
+	},
+	{
+		"typ": "abholen",
+		"count": 104
+	},
+	{
+		"typ": "Sonstiges",
+		"count": 336
+	},
+	{
+		"typ": "Bremse",
+		"count": 123
+	},
+	{
+		"typ": "Seitenst�nder",
+		"count": 55
+	},
+	{
+		"typ": "Hinterrad",
+		"count": 257
+	},
+	{
+		"typ": "Vorderrad",
+		"count": 64
+	},
+	{
+		"typ": "Rollenbremse",
+		"count": 34
+	},
+	{
+		"typ": "Nabe hinten",
+		"count": 56
+	},
+	{
+		"typ": "Schaltung",
+		"count": 41
+	},
+	{
+		"typ": "Kette",
+		"count": 225
+	},
+	{
+		"typ": "Lenker",
+		"count": 246
+	},
+	{
+		"typ": "Steuerlager",
+		"count": 78
+	},
+	{
+		"typ": "Sattelst�tze",
+		"count": 53
+	},
+	{
+		"typ": "Extras",
+		"count": 138
+	},
+	{
+		"typ": "Entlehnung probieren",
+		"count": 78
+	},
+	{
+		"typ": "Licht",
+		"count": 100
+	},
+	{
+		"typ": "Licht vorne",
+		"count": 27
+	},
+	{
+		"typ": "Speiche Hinterrad",
+		"count": 14
+	},
+	{
+		"typ": "Plastik",
+		"count": 33
+	},
+	{
+		"typ": "Licht vorne Radius",
+		"count": 3
+	},
+	{
+		"typ": "Nabe Eingang",
+		"count": 21
+	},
+	{
+		"typ": "Klingel",
+		"count": 166
+	},
+	{
+		"typ": "Ganganzeige",
+		"count": 12
+	},
+	{
+		"typ": "Rahmen",
+		"count": 11
+	},
+	{
+		"typ": "Schloss ausrichten",
+		"count": 44
+	},
+	{
+		"typ": "Schlossschrauben nachziehen",
+		"count": 32
+	},
+	{
+		"typ": "Lichthalterung",
+		"count": 15
+	},
+	{
+		"typ": "Bremshebel",
+		"count": 33
+	},
+	{
+		"typ": "Bremsseil",
+		"count": 82
+	},
+	{
+		"typ": "Endmontage",
+		"count": 58
+	},
+	{
+		"typ": "Sattelschnellspanner",
+		"count": 120
+	},
+	{
+		"typ": "Vorderradscheibe",
+		"count": 16
+	},
+	{
+		"typ": "Gummieinlage hinten",
+		"count": 18
+	},
+	{
+		"typ": "Achsmutter hinten",
+		"count": 18
+	},
+	{
+		"typ": "Haken gerade biegen",
+		"count": 24
+	},
+	{
+		"typ": "Sponsoraufkleber",
+		"count": 9
+	},
+	{
+		"typ": "Licht vorne Trelock",
+		"count": 8
+	},
+	{
+		"typ": "Schwalbe Reifen 1,5",
+		"count": 19
+	},
+	{
+		"typ": "Felgenband Vollgummi",
+		"count": 20
+	},
+	{
+		"typ": "Schwalbe Gummieinlage 1,5",
+		"count": 18
+	},
+	{
+		"typ": "Pallett (Schlosshaken)",
+		"count": 8
+	},
+	{
+		"typ": "Pedale",
+		"count": 104
+	},
+	{
+		"typ": "Kurbel links",
+		"count": 39
+	},
+	{
+		"typ": "Schutzblech",
+		"count": 48
+	},
+	{
+		"typ": "Pedal links",
+		"count": 34
+	},
+	{
+		"typ": "Klingelkl�ppel",
+		"count": 30
+	},
+	{
+		"typ": "Radnummer �berpr�fen",
+		"count": 2
+	},
+	{
+		"typ": "Lichtkabel",
+		"count": 54
+	},
+	{
+		"typ": "V-Brake",
+		"count": 20
+	},
+	{
+		"typ": "Kettenschutz",
+		"count": 14
+	},
+	{
+		"typ": "Schaltung einstellen",
+		"count": 22
+	},
+	{
+		"typ": "Schlo� (komplett)",
+		"count": 11
+	},
+	{
+		"typ": "Gabel",
+		"count": 3
+	},
+	{
+		"typ": "Lichthalterung neu",
+		"count": 2
+	},
+	{
+		"typ": "Gabel (+Farbe)(automatisch)",
+		"count": 2
+	},
+	{
+		"typ": "Tretlager",
+		"count": 20
+	},
+	{
+		"typ": "Reifen",
+		"count": 35
+	},
+	{
+		"typ": "Schl�ssel",
+		"count": 5
+	},
+	{
+		"typ": "Box Service",
+		"count": 50
+	},
+	{
+		"typ": "Knopf",
+		"count": 11
+	},
+	{
+		"typ": "tauschen",
+		"count": 9
+	},
+	{
+		"typ": "Lenkstange",
+		"count": 19
+	},
+	{
+		"typ": "Mechanik",
+		"count": 37
+	},
+	{
+		"typ": "Doppelsensor tauschen",
+		"count": 2
+	},
+	{
+		"typ": "Doppel-Sensor",
+		"count": 2
+	},
+	{
+		"typ": "Vordach tauschen",
+		"count": 1
+	},
+	{
+		"typ": "Aufkleber",
+		"count": 9
+	},
+	{
+		"typ": "Knopfkleber tauschen",
+		"count": 6
+	},
+	{
+		"typ": "Vorbau",
+		"count": 19
+	},
+	{
+		"typ": "Felge",
+		"count": 2
+	},
+	{
+		"typ": "Nabe 3-Gang",
+		"count": 3
+	},
+	{
+		"typ": "Schaltseil",
+		"count": 7
+	},
+	{
+		"typ": "Schutzblechb�gel",
+		"count": 51
+	},
+	{
+		"typ": "Dispenser",
+		"count": 14
+	},
+	{
+		"typ": "komplett",
+		"count": 2
+	},
+	{
+		"typ": "Dispenserdeckel",
+		"count": 11
+	},
+	{
+		"typ": "Ganganzeige Indikator",
+		"count": 2
+	},
+	{
+		"typ": "Klappe",
+		"count": 22
+	},
+	{
+		"typ": "Speichen Vorderrad",
+		"count": 7
+	},
+	{
+		"typ": "Korbhalterung",
+		"count": 13
+	},
+	{
+		"typ": "Schaltgriff komplett",
+		"count": 4
+	},
+	{
+		"typ": "Gr�ner Knopf",
+		"count": 3
+	},
+	{
+		"typ": "Gummieinlage vorne",
+		"count": 7
+	},
+	{
+		"typ": "Vollgummi-Einlage 1,35",
+		"count": 10
+	},
+	{
+		"typ": "Reifen Schwalbe 1,35",
+		"count": 10
+	},
+	{
+		"typ": "Kurbel rechts",
+		"count": 12
+	},
+	{
+		"typ": "zentrieren",
+		"count": 11
+	},
+	{
+		"typ": "Deckel",
+		"count": 10
+	},
+	{
+		"typ": "Achsmutter vorne",
+		"count": 10
+	},
+	{
+		"typ": "Schaltbowde",
+		"count": 3
+	},
+	{
+		"typ": "H�he einstellen",
+		"count": 13
+	},
+	{
+		"typ": "Schaltgriff Gummi",
+		"count": 6
+	},
+	{
+		"typ": "Pedal rechts",
+		"count": 9
+	},
+	{
+		"typ": "Dynamo",
+		"count": 3
+	},
+	{
+		"typ": "Dynamostecker",
+		"count": 1
+	},
+	{
+		"typ": "Ritzel",
+		"count": 2
+	},
+	{
+		"typ": "Zylinder",
+		"count": 8
+	},
+	{
+		"typ": "Lenkergriff",
+		"count": 34
+	},
+	{
+		"typ": "R�cktritt",
+		"count": 4
+	},
+	{
+		"typ": "Schaltst�bchen",
+		"count": 1
+	},
+	{
+		"typ": "Plastikhalterung",
+		"count": 6
+	},
+	{
+		"typ": "Bremsschuhe",
+		"count": 4
+	},
+	{
+		"typ": "Boxenkleber Raiffeisen",
+		"count": 2
+	},
+	{
+		"typ": "Knopf-Kleber",
+		"count": 2
+	},
+	{
+		"typ": "Vorderrad SRAM",
+		"count": 5
+	},
+	{
+		"typ": "Sensoren einstellen",
+		"count": 11
+	},
+	{
+		"typ": "Pallett-Sensor tauschen",
+		"count": 5
+	},
+	{
+		"typ": "Hook-Sensor tauschen",
+		"count": 5
+	},
+	{
+		"typ": "Pallett-Sensor",
+		"count": 5
+	},
+	{
+		"typ": "Hook-Sensor",
+		"count": 5
+	},
+	{
+		"typ": "komplett tauschen",
+		"count": 7
+	},
+	{
+		"typ": "Haken h�ngt",
+		"count": 4
+	},
+	{
+		"typ": "Verdrehsicherung",
+		"count": 1
+	},
+	{
+		"typ": "Boxenmechanik",
+		"count": 6
+	},
+	{
+		"typ": "bringen",
+		"count": 5
+	},
+	{
+		"typ": "Steuerlager Kontermutter",
+		"count": 1
+	},
+	{
+		"typ": "Pitlock vorne",
+		"count": 6
+	},
+	{
+		"typ": "Elektronic",
+		"count": 1
+	},
+	{
+		"typ": "Bikebox-Elektronik",
+		"count": 1
+	},
+	{
+		"typ": "Schl�sselabdeckung",
+		"count": 4
+	},
+	{
+		"typ": "Terminal T�re",
+		"count": 1
+	},
+	{
+		"typ": "Dichtungen �berpr�fen",
+		"count": 1
+	},
+	{
+		"typ": "Lichthalterung alt",
+		"count": 2
+	},
+	{
+		"typ": "Bremsbowde",
+		"count": 5
+	},
+	{
+		"typ": "Schlo� komplett",
+		"count": 2
+	},
+	{
+		"typ": "komplette Mechanik",
+		"count": 5
+	},
+	{
+		"typ": "Schrumpfschlauch",
+		"count": 1
+	},
+	{
+		"typ": "Pitlock",
+		"count": 1
+	},
+	{
+		"typ": "Boxenkleber V�slauer",
+		"count": 1
+	}]
+},
+{
+	"month": "OCTOBER",
+	"typ": [{
+		"typ": "Korb",
+		"count": 247
+	},
+	{
+		"typ": "Lichtkabel",
+		"count": 55
+	},
+	{
+		"typ": "Bremsseil",
+		"count": 59
+	},
+	{
+		"typ": "Licht vorne Trelock",
+		"count": 15
+	},
+	{
+		"typ": "Vorderradscheibe",
+		"count": 21
+	},
+	{
+		"typ": "Nabe 3-Gang",
+		"count": 5
+	},
+	{
+		"typ": "Achsmutter hinten",
+		"count": 25
+	},
+	{
+		"typ": "Schaltst�bchen",
+		"count": 1
+	},
+	{
+		"typ": "Pallett (Schlosshaken)",
+		"count": 10
+	},
+	{
+		"typ": "Ganganzeige",
+		"count": 5
+	},
+	{
+		"typ": "Schadensmeldung",
+		"count": 1107
+	},
+	{
+		"typ": "Lenkersperre",
+		"count": 153
+	},
+	{
+		"typ": "Haken gerade biegen",
+		"count": 46
+	},
+	{
+		"typ": "Sonstiges",
+		"count": 318
+	},
+	{
+		"typ": "Seitenst�nder",
+		"count": 51
+	},
+	{
+		"typ": "Lenker",
+		"count": 173
+	},
+	{
+		"typ": "Lenkstange",
+		"count": 18
+	},
+	{
+		"typ": "Korbhalterung",
+		"count": 19
+	},
+	{
+		"typ": "Korbstrebe",
+		"count": 1
+	},
+	{
+		"typ": "Bremse",
+		"count": 86
+	},
+	{
+		"typ": "Bremshebel",
+		"count": 31
+	},
+	{
+		"typ": "Hinterrad",
+		"count": 221
+	},
+	{
+		"typ": "Nabe hinten",
+		"count": 48
+	},
+	{
+		"typ": "Kette",
+		"count": 214
+	},
+	{
+		"typ": "Vorbau",
+		"count": 19
+	},
+	{
+		"typ": "Sattel",
+		"count": 203
+	},
+	{
+		"typ": "Sattelst�tze",
+		"count": 6
+	},
+	{
+		"typ": "Plastik",
+		"count": 29
+	},
+	{
+		"typ": "Auto",
+		"count": 92
+	},
+	{
+		"typ": "abholen",
+		"count": 92
+	},
+	{
+		"typ": "Nabe Eingang",
+		"count": 21
+	},
+	{
+		"typ": "Extras",
+		"count": 120
+	},
+	{
+		"typ": "Endmontage",
+		"count": 32
+	},
+	{
+		"typ": "Pedale",
+		"count": 91
+	},
+	{
+		"typ": "Klappe",
+		"count": 8
+	},
+	{
+		"typ": "Zylinder",
+		"count": 43
+	},
+	{
+		"typ": "Licht",
+		"count": 92
+	},
+	{
+		"typ": "Schloss ausrichten",
+		"count": 38
+	},
+	{
+		"typ": "Schlossschrauben nachziehen",
+		"count": 28
+	},
+	{
+		"typ": "Steuerlager",
+		"count": 53
+	},
+	{
+		"typ": "Kettenschutz",
+		"count": 29
+	},
+	{
+		"typ": "Terminal Service",
+		"count": 33
+	},
+	{
+		"typ": "Terminal T�re",
+		"count": 1
+	},
+	{
+		"typ": "Schutzblechb�gel",
+		"count": 34
+	},
+	{
+		"typ": "Schaltung",
+		"count": 31
+	},
+	{
+		"typ": "Vorderrad",
+		"count": 59
+	},
+	{
+		"typ": "Achsmutter vorne",
+		"count": 3
+	},
+	{
+		"typ": "Radnummer �berpr�fen",
+		"count": 1
+	},
+	{
+		"typ": "Zentrale anrufen",
+		"count": 3
+	},
+	{
+		"typ": "Sattelschnellspanner",
+		"count": 138
+	},
+	{
+		"typ": "Klingel",
+		"count": 112
+	},
+	{
+		"typ": "Klingelkl�ppel",
+		"count": 11
+	},
+	{
+		"typ": "Lenkergriff",
+		"count": 15
+	},
+	{
+		"typ": "Box Service",
+		"count": 69
+	},
+	{
+		"typ": "Mechanik",
+		"count": 43
+	},
+	{
+		"typ": "komplett tauschen",
+		"count": 3
+	},
+	{
+		"typ": "komplette Mechanik",
+		"count": 3
+	},
+	{
+		"typ": "Boxenmechanik",
+		"count": 3
+	},
+	{
+		"typ": "im Terminal",
+		"count": 1
+	},
+	{
+		"typ": "R�cktritt",
+		"count": 9
+	},
+	{
+		"typ": "Pedal links",
+		"count": 10
+	},
+	{
+		"typ": "Schutzblech",
+		"count": 42
+	},
+	{
+		"typ": "Boxenschlo�",
+		"count": 5
+	},
+	{
+		"typ": "tauschen",
+		"count": 24
+	},
+	{
+		"typ": "Licht vorne",
+		"count": 25
+	},
+	{
+		"typ": "Schl�sselabdeckung",
+		"count": 3
+	},
+	{
+		"typ": "V-Brake",
+		"count": 10
+	},
+	{
+		"typ": "Bremsschuhe",
+		"count": 9
+	},
+	{
+		"typ": "zentrieren",
+		"count": 12
+	},
+	{
+		"typ": "Knopf",
+		"count": 9
+	},
+	{
+		"typ": "Gr�ner Knopf",
+		"count": 6
+	},
+	{
+		"typ": "Kurbel links",
+		"count": 20
+	},
+	{
+		"typ": "Schlo� (komplett)",
+		"count": 17
+	},
+	{
+		"typ": "Licht hinten",
+		"count": 37
+	},
+	{
+		"typ": "Lichthalterung",
+		"count": 11
+	},
+	{
+		"typ": "Rollenbremse",
+		"count": 11
+	},
+	{
+		"typ": "Tretlager",
+		"count": 14
+	},
+	{
+		"typ": "Speichen Vorderrad",
+		"count": 3
+	},
+	{
+		"typ": "Reifen",
+		"count": 38
+	},
+	{
+		"typ": "Gummieinlage vorne",
+		"count": 16
+	},
+	{
+		"typ": "Pitlock vorne",
+		"count": 3
+	},
+	{
+		"typ": "Gummieinlage hinten",
+		"count": 15
+	},
+	{
+		"typ": "Gabel",
+		"count": 9
+	},
+	{
+		"typ": "Lichthalterung neu",
+		"count": 2
+	},
+	{
+		"typ": "Vorderrad Shimano",
+		"count": 1
+	},
+	{
+		"typ": "Vollgummi-Einlage 1,35",
+		"count": 16
+	},
+	{
+		"typ": "Felgenband Vollgummi",
+		"count": 26
+	},
+	{
+		"typ": "Reifen Schwalbe 1,35",
+		"count": 13
+	},
+	{
+		"typ": "Pitlock",
+		"count": 3
+	},
+	{
+		"typ": "Schwalbe Reifen 1,5",
+		"count": 15
+	},
+	{
+		"typ": "Schwalbe Gummieinlage 1,5",
+		"count": 15
+	},
+	{
+		"typ": "Gabel (+Farbe)(automatisch)",
+		"count": 4
+	},
+	{
+		"typ": "Plastikhalterung",
+		"count": 4
+	},
+	{
+		"typ": "Schaltung einstellen",
+		"count": 42
+	},
+	{
+		"typ": "Transponder",
+		"count": 18
+	},
+	{
+		"typ": "Dynamo",
+		"count": 1
+	},
+	{
+		"typ": "Lichthalterung alt",
+		"count": 4
+	},
+	{
+		"typ": "H�he einstellen",
+		"count": 25
+	},
+	{
+		"typ": "Dispenser",
+		"count": 13
+	},
+	{
+		"typ": "Deckel",
+		"count": 8
+	},
+	{
+		"typ": "Dispenserdeckel",
+		"count": 8
+	},
+	{
+		"typ": "Wechselpuffer",
+		"count": 1
+	},
+	{
+		"typ": "Wechselbuffer",
+		"count": 1
+	},
+	{
+		"typ": "Licht vorne Radius",
+		"count": 3
+	},
+	{
+		"typ": "Geh�use Oberteil",
+		"count": 2
+	},
+	{
+		"typ": "Geh�use Unterteil",
+		"count": 1
+	},
+	{
+		"typ": "Sensoren einstellen",
+		"count": 7
+	},
+	{
+		"typ": "Hook-Sensor tauschen",
+		"count": 3
+	},
+	{
+		"typ": "Hook-Sensor",
+		"count": 3
+	},
+	{
+		"typ": "Haken h�ngt",
+		"count": 7
+	},
+	{
+		"typ": "Kurbel rechts",
+		"count": 14
+	},
+	{
+		"typ": "Graffitti",
+		"count": 14
+	},
+	{
+		"typ": "entfernen",
+		"count": 13
+	},
+	{
+		"typ": "Ganganzeige Indikator",
+		"count": 3
+	},
+	{
+		"typ": "Entlehnung probieren",
+		"count": 86
+	},
+	{
+		"typ": "Bremsbowde",
+		"count": 5
+	},
+	{
+		"typ": "Speiche Hinterrad",
+		"count": 9
+	},
+	{
+		"typ": "Vorderrad SRAM",
+		"count": 1
+	},
+	{
+		"typ": "Reflektorstreifen",
+		"count": 11
+	},
+	{
+		"typ": "Elektronic",
+		"count": 2
+	},
+	{
+		"typ": "Bikebox-Elektronik",
+		"count": 1
+	},
+	{
+		"typ": "Ritzel",
+		"count": 3
+	},
+	{
+		"typ": "Ritzel 18 Z�hne",
+		"count": 3
+	},
+	{
+		"typ": "Rahmen",
+		"count": 16
+	},
+	{
+		"typ": "Schaltseil",
+		"count": 3
+	},
+	{
+		"typ": "Knopf-Kleber",
+		"count": 13
+	},
+	{
+		"typ": "bringen",
+		"count": 2
+	},
+	{
+		"typ": "Pedal rechts",
+		"count": 2
+	},
+	{
+		"typ": "Foto von Schaden machen",
+		"count": 2
+	},
+	{
+		"typ": "Schaltgriff komplett",
+		"count": 3
+	},
+	{
+		"typ": "Felge",
+		"count": 2
+	},
+	{
+		"typ": "Plastik klein",
+		"count": 3
+	},
+	{
+		"typ": "Sponsoraufkleber",
+		"count": 11
+	},
+	{
+		"typ": "Schaltbowde",
+		"count": 1
+	},
+	{
+		"typ": "Lenkergriff 3-Gang rechts",
+		"count": 1
+	},
+	{
+		"typ": "Schlo� komplett",
+		"count": 3
+	},
+	{
+		"typ": "komplett",
+		"count": 3
+	},
+	{
+		"typ": "Aufkleber",
+		"count": 2
+	},
+	{
+		"typ": "Boxnummernkleber tauschen",
+		"count": 1
+	},
+	{
+		"typ": "Vordach tauschen",
+		"count": 1
+	},
+	{
+		"typ": "H�tte",
+		"count": 1
+	},
+	{
+		"typ": "Hotline-Kleber  tauschen",
+		"count": 1
+	},
+	{
+		"typ": "Verdrehsicherung",
+		"count": 1
+	},
+	{
+		"typ": "schmieren",
+		"count": 1
+	},
+	{
+		"typ": "Schaltgriff Gummi",
+		"count": 3
+	},
+	{
+		"typ": "Werbekleber",
+		"count": 10
+	},
+	{
+		"typ": "Doppelsensor tauschen",
+		"count": 1
+	},
+	{
+		"typ": "Doppel-Sensor",
+		"count": 1
+	}]
+},
+{
+	"month": "NOVEMBER",
+	"typ": [{
+		"typ": "Nabe 3-Gang",
+		"count": 5
+	},
+	{
+		"typ": "Korb",
+		"count": 161
+	},
+	{
+		"typ": "Felge",
+		"count": 3
+	},
+	{
+		"typ": "Schwalbe Reifen 1,5",
+		"count": 16
+	},
+	{
+		"typ": "Schwalbe Gummieinlage 1,5",
+		"count": 17
+	},
+	{
+		"typ": "Reflektorstreifen",
+		"count": 1
+	},
+	{
+		"typ": "Schaltgriff komplett",
+		"count": 3
+	},
+	{
+		"typ": "Bremsseil",
+		"count": 55
+	},
+	{
+		"typ": "Bremsbowde",
+		"count": 8
+	},
+	{
+		"typ": "Felgenband Vollgummi",
+		"count": 21
+	},
+	{
+		"typ": "Achsmutter hinten",
+		"count": 12
+	},
+	{
+		"typ": "Pallett (Schlosshaken)",
+		"count": 7
+	},
+	{
+		"typ": "Kurbel rechts",
+		"count": 8
+	},
+	{
+		"typ": "Tretlager",
+		"count": 20
+	},
+	{
+		"typ": "Sattel",
+		"count": 103
+	},
+	{
+		"typ": "Nabe Eingang",
+		"count": 17
+	},
+	{
+		"typ": "Sattelschnellspanner",
+		"count": 62
+	},
+	{
+		"typ": "Klingel",
+		"count": 35
+	},
+	{
+		"typ": "Licht vorne Trelock",
+		"count": 4
+	},
+	{
+		"typ": "Vollgummi-Einlage 1,35",
+		"count": 10
+	},
+	{
+		"typ": "Reifen Schwalbe 1,35",
+		"count": 11
+	},
+	{
+		"typ": "Schadensmeldung",
+		"count": 741
+	},
+	{
+		"typ": "Bremse",
+		"count": 71
+	},
+	{
+		"typ": "Rollenbremse",
+		"count": 26
+	},
+	{
+		"typ": "Vorderrad",
+		"count": 35
+	},
+	{
+		"typ": "Vorderradscheibe",
+		"count": 6
+	},
+	{
+		"typ": "Sonstiges",
+		"count": 164
+	},
+	{
+		"typ": "Auto",
+		"count": 81
+	},
+	{
+		"typ": "abholen",
+		"count": 81
+	},
+	{
+		"typ": "Extras",
+		"count": 177
+	},
+	{
+		"typ": "Entlehnung probieren",
+		"count": 150
+	},
+	{
+		"typ": "Lenkersperre",
+		"count": 84
+	},
+	{
+		"typ": "Transponder",
+		"count": 16
+	},
+	{
+		"typ": "Licht",
+		"count": 53
+	},
+	{
+		"typ": "Licht vorne",
+		"count": 17
+	},
+	{
+		"typ": "Licht hinten",
+		"count": 25
+	},
+	{
+		"typ": "Lichtkabel",
+		"count": 43
+	},
+	{
+		"typ": "Pedale",
+		"count": 55
+	},
+	{
+		"typ": "Kurbel links",
+		"count": 9
+	},
+	{
+		"typ": "Schlossschrauben nachziehen",
+		"count": 25
+	},
+	{
+		"typ": "Terminal Service",
+		"count": 171
+	},
+	{
+		"typ": "Wechselpuffer",
+		"count": 1
+	},
+	{
+		"typ": "tauschen",
+		"count": 20
+	},
+	{
+		"typ": "Pedal rechts",
+		"count": 6
+	},
+	{
+		"typ": "Kette",
+		"count": 121
+	},
+	{
+		"typ": "Seitenst�nder",
+		"count": 36
+	},
+	{
+		"typ": "Achsmutter vorne",
+		"count": 10
+	},
+	{
+		"typ": "Reifen",
+		"count": 28
+	},
+	{
+		"typ": "Gummieinlage vorne",
+		"count": 10
+	},
+	{
+		"typ": "Hinterrad",
+		"count": 146
+	},
+	{
+		"typ": "Lenker",
+		"count": 91
+	},
+	{
+		"typ": "Lenkstange",
+		"count": 12
+	},
+	{
+		"typ": "Schloss ausrichten",
+		"count": 32
+	},
+	{
+		"typ": "Pitlock vorne",
+		"count": 4
+	},
+	{
+		"typ": "Endmontage",
+		"count": 21
+	},
+	{
+		"typ": "Schaltung einstellen",
+		"count": 18
+	},
+	{
+		"typ": "Schaltung",
+		"count": 17
+	},
+	{
+		"typ": "Ganganzeige",
+		"count": 3
+	},
+	{
+		"typ": "Sattelst�tze",
+		"count": 8
+	},
+	{
+		"typ": "Graffitti",
+		"count": 16
+	},
+	{
+		"typ": "entfernen",
+		"count": 16
+	},
+	{
+		"typ": "Korbhalterung",
+		"count": 4
+	},
+	{
+		"typ": "Box Service",
+		"count": 48
+	},
+	{
+		"typ": "Mechanik",
+		"count": 30
+	},
+	{
+		"typ": "Doppelsensor tauschen",
+		"count": 7
+	},
+	{
+		"typ": "Doppel-Sensor",
+		"count": 7
+	},
+	{
+		"typ": "Schaltgriff Gummi",
+		"count": 1
+	},
+	{
+		"typ": "Nabe hinten",
+		"count": 37
+	},
+	{
+		"typ": "Gummieinlage hinten",
+		"count": 15
+	},
+	{
+		"typ": "Schlo� (komplett)",
+		"count": 7
+	},
+	{
+		"typ": "Bremshebel",
+		"count": 15
+	},
+	{
+		"typ": "Schutzblechb�gel",
+		"count": 18
+	},
+	{
+		"typ": "Lenkergriff",
+		"count": 10
+	},
+	{
+		"typ": "Ganganzeige Indikator",
+		"count": 1
+	},
+	{
+		"typ": "komplett tauschen",
+		"count": 8
+	},
+	{
+		"typ": "Haken h�ngt",
+		"count": 4
+	},
+	{
+		"typ": "komplette Mechanik",
+		"count": 7
+	},
+	{
+		"typ": "Boxenmechanik",
+		"count": 9
+	},
+	{
+		"typ": "bringen",
+		"count": 7
+	},
+	{
+		"typ": "Vorbau",
+		"count": 9
+	},
+	{
+		"typ": "Klingelkl�ppel",
+		"count": 6
+	},
+	{
+		"typ": "Schutzblech",
+		"count": 18
+	},
+	{
+		"typ": "Dispenser",
+		"count": 8
+	},
+	{
+		"typ": "komplett",
+		"count": 2
+	},
+	{
+		"typ": "Steuerlager",
+		"count": 42
+	},
+	{
+		"typ": "Klappe",
+		"count": 10
+	},
+	{
+		"typ": "Knopf",
+		"count": 9
+	},
+	{
+		"typ": "Vorderrad Shimano",
+		"count": 1
+	},
+	{
+		"typ": "Zylinder",
+		"count": 6
+	},
+	{
+		"typ": "Sponsoraufkleber",
+		"count": 4
+	},
+	{
+		"typ": "Schaltseil",
+		"count": 4
+	},
+	{
+		"typ": "Deckel",
+		"count": 4
+	},
+	{
+		"typ": "Dispenserdeckel",
+		"count": 4
+	},
+	{
+		"typ": "Plastik",
+		"count": 12
+	},
+	{
+		"typ": "Elektronic",
+		"count": 4
+	},
+	{
+		"typ": "Bikebox-Elektronik",
+		"count": 3
+	},
+	{
+		"typ": "Haken gerade biegen",
+		"count": 18
+	},
+	{
+		"typ": "Knopf-Kleber",
+		"count": 14
+	},
+	{
+		"typ": "Licht vorne Radius",
+		"count": 7
+	},
+	{
+		"typ": "Pedal links",
+		"count": 17
+	},
+	{
+		"typ": "Schaltst�bchen",
+		"count": 2
+	},
+	{
+		"typ": "Bremsschuhe",
+		"count": 2
+	},
+	{
+		"typ": "Gr�ner Knopf",
+		"count": 7
+	},
+	{
+		"typ": "Plastikhalterung",
+		"count": 3
+	},
+	{
+		"typ": "zentrieren",
+		"count": 11
+	},
+	{
+		"typ": "Speiche Hinterrad",
+		"count": 7
+	},
+	{
+		"typ": "Ritzel",
+		"count": 3
+	},
+	{
+		"typ": "H�he einstellen",
+		"count": 8
+	},
+	{
+		"typ": "Kettenschutz",
+		"count": 10
+	},
+	{
+		"typ": "R�cktritt",
+		"count": 5
+	},
+	{
+		"typ": "Lenkergriff 3-Gang rechts",
+		"count": 1
+	},
+	{
+		"typ": "Lichthalterung",
+		"count": 2
+	},
+	{
+		"typ": "Aufkleber",
+		"count": 2
+	},
+	{
+		"typ": "Boxenkleber Raiffeisen",
+		"count": 2
+	},
+	{
+		"typ": "Boxenschlo�",
+		"count": 2
+	},
+	{
+		"typ": "schmieren",
+		"count": 1
+	},
+	{
+		"typ": "Schaltbowde",
+		"count": 1
+	},
+	{
+		"typ": "Radnummer �berpr�fen",
+		"count": 2
+	},
+	{
+		"typ": "Kettenschutzhalterung",
+		"count": 1
+	},
+	{
+		"typ": "Gabel",
+		"count": 2
+	},
+	{
+		"typ": "Gabel (+Farbe)(automatisch)",
+		"count": 1
+	},
+	{
+		"typ": "Schl�ssel",
+		"count": 3
+	},
+	{
+		"typ": "Schl�sselabdeckung",
+		"count": 2
+	},
+	{
+		"typ": "V-Brake",
+		"count": 4
+	},
+	{
+		"typ": "Rahmennummer �berpr�fen",
+		"count": 3
+	},
+	{
+		"typ": "Zentrale anrufen",
+		"count": 2
+	},
+	{
+		"typ": "Foto von Schaden machen",
+		"count": 1
+	},
+	{
+		"typ": "Rahmen",
+		"count": 1
+	},
+	{
+		"typ": "Verdrehsicherung",
+		"count": 1
+	},
+	{
+		"typ": "Bildschirm kalibrieren",
+		"count": 18
+	},
+	{
+		"typ": "Sensoren einstellen",
+		"count": 2
+	},
+	{
+		"typ": "Hook-Sensor tauschen",
+		"count": 2
+	},
+	{
+		"typ": "Hook-Sensor",
+		"count": 2
+	},
+	{
+		"typ": "Mauszeiger resetieren",
+		"count": 4
+	},
+	{
+		"typ": "Boxenschl�sser schmieren",
+		"count": 116
+	},
+	{
+		"typ": "Schaltbox",
+		"count": 1
+	},
+	{
+		"typ": "Dynamostecker",
+		"count": 4
+	},
+	{
+		"typ": "Plastik klein",
+		"count": 1
+	},
+	{
+		"typ": "Bildschirm",
+		"count": 11
+	},
+	{
+		"typ": "Bildschirm resetieren",
+		"count": 2
+	},
+	{
+		"typ": "Geh�use Oberteil",
+		"count": 1
+	},
+	{
+		"typ": "Speichen Vorderrad",
+		"count": 1
+	},
+	{
+		"typ": "Pitlock",
+		"count": 2
+	},
+	{
+		"typ": "Boxenschl�sser",
+		"count": 2
+	},
+	{
+		"typ": "Ritzel 20 Z�hne",
+		"count": 1
+	},
+	{
+		"typ": "Korbstrebe",
+		"count": 2
+	}]
+},
+{
+	"month": "DECEMBER",
+	"typ": [{
+		"typ": "Licht vorne Radius",
+		"count": 4
+	},
+	{
+		"typ": "Steuerlager Kontermutter",
+		"count": 1
+	},
+	{
+		"typ": "Korb",
+		"count": 63
+	},
+	{
+		"typ": "Klingel",
+		"count": 21
+	},
+	{
+		"typ": "Sattelschnellspanner",
+		"count": 40
+	},
+	{
+		"typ": "Lichtkabel",
+		"count": 15
+	},
+	{
+		"typ": "Nabe Eingang",
+		"count": 10
+	},
+	{
+		"typ": "Tretlager",
+		"count": 10
+	},
+	{
+		"typ": "Kettenschutz",
+		"count": 15
+	},
+	{
+		"typ": "Bremsseil",
+		"count": 19
+	},
+	{
+		"typ": "Bremsbowde",
+		"count": 6
+	},
+	{
+		"typ": "Vollgummi-Einlage 1,35",
+		"count": 3
+	},
+	{
+		"typ": "Felgenband Vollgummi",
+		"count": 7
+	},
+	{
+		"typ": "Reifen Schwalbe 1,35",
+		"count": 4
+	},
+	{
+		"typ": "Schutzblech",
+		"count": 12
+	},
+	{
+		"typ": "Schutzblechb�gel",
+		"count": 8
+	},
+	{
+		"typ": "Sponsoraufkleber",
+		"count": 5
+	},
+	{
+		"typ": "Schadensmeldung",
+		"count": 417
+	},
+	{
+		"typ": "Sonstiges",
+		"count": 75
+	},
+	{
+		"typ": "Licht",
+		"count": 35
+	},
+	{
+		"typ": "Licht vorne",
+		"count": 13
+	},
+	{
+		"typ": "Licht hinten",
+		"count": 16
+	},
+	{
+		"typ": "Bremse",
+		"count": 26
+	},
+	{
+		"typ": "Rollenbremse",
+		"count": 6
+	},
+	{
+		"typ": "Bremshebel",
+		"count": 9
+	},
+	{
+		"typ": "Pedale",
+		"count": 25
+	},
+	{
+		"typ": "Kurbel rechts",
+		"count": 2
+	},
+	{
+		"typ": "Kurbel links",
+		"count": 6
+	},
+	{
+		"typ": "Vorderrad",
+		"count": 18
+	},
+	{
+		"typ": "Reifen",
+		"count": 17
+	},
+	{
+		"typ": "Hinterrad",
+		"count": 62
+	},
+	{
+		"typ": "Nabe hinten",
+		"count": 22
+	},
+	{
+		"typ": "Reflektorstreifen",
+		"count": 3
+	},
+	{
+		"typ": "Schaltung einstellen",
+		"count": 8
+	},
+	{
+		"typ": "zentrieren",
+		"count": 7
+	},
+	{
+		"typ": "Lenkersperre",
+		"count": 49
+	},
+	{
+		"typ": "Schlo� (komplett)",
+		"count": 7
+	},
+	{
+		"typ": "Lenker",
+		"count": 37
+	},
+	{
+		"typ": "Steuerlager",
+		"count": 18
+	},
+	{
+		"typ": "Seitenst�nder",
+		"count": 14
+	},
+	{
+		"typ": "Felge",
+		"count": 1
+	},
+	{
+		"typ": "Nabe 3-Gang",
+		"count": 2
+	},
+	{
+		"typ": "Schwalbe Reifen 1,5",
+		"count": 5
+	},
+	{
+		"typ": "Achsmutter hinten",
+		"count": 11
+	},
+	{
+		"typ": "Pallett (Schlosshaken)",
+		"count": 5
+	},
+	{
+		"typ": "Box Service",
+		"count": 19
+	},
+	{
+		"typ": "Mechanik",
+		"count": 17
+	},
+	{
+		"typ": "Haken h�ngt",
+		"count": 8
+	},
+	{
+		"typ": "Bremsschuhe",
+		"count": 2
+	},
+	{
+		"typ": "Kette",
+		"count": 54
+	},
+	{
+		"typ": "Gummieinlage hinten",
+		"count": 6
+	},
+	{
+		"typ": "Schwalbe Gummieinlage 1,5",
+		"count": 5
+	},
+	{
+		"typ": "Terminal Service",
+		"count": 28
+	},
+	{
+		"typ": "Graffitti",
+		"count": 15
+	},
+	{
+		"typ": "entfernen",
+		"count": 15
+	},
+	{
+		"typ": "Boxenmechanik",
+		"count": 3
+	},
+	{
+		"typ": "im Terminal",
+		"count": 3
+	},
+	{
+		"typ": "Sattel",
+		"count": 55
+	},
+	{
+		"typ": "Schl�sselabdeckung",
+		"count": 5
+	},
+	{
+		"typ": "Auto",
+		"count": 22
+	},
+	{
+		"typ": "abholen",
+		"count": 22
+	},
+	{
+		"typ": "Schloss ausrichten",
+		"count": 22
+	},
+	{
+		"typ": "Schlossschrauben nachziehen",
+		"count": 21
+	},
+	{
+		"typ": "Plastik",
+		"count": 12
+	},
+	{
+		"typ": "Sattelst�tze",
+		"count": 1
+	},
+	{
+		"typ": "Terminal T�re",
+		"count": 4
+	},
+	{
+		"typ": "Schlo� einstellen",
+		"count": 2
+	},
+	{
+		"typ": "Haken gerade biegen",
+		"count": 12
+	},
+	{
+		"typ": "Dispenser",
+		"count": 6
+	},
+	{
+		"typ": "Deckel",
+		"count": 4
+	},
+	{
+		"typ": "Dispenserdeckel",
+		"count": 4
+	},
+	{
+		"typ": "Dichtungen �berpr�fen",
+		"count": 1
+	},
+	{
+		"typ": "Transponder",
+		"count": 11
+	},
+	{
+		"typ": "Extras",
+		"count": 78
+	},
+	{
+		"typ": "Entlehnung probieren",
+		"count": 74
+	},
+	{
+		"typ": "Knopf",
+		"count": 1
+	},
+	{
+		"typ": "Sensoren einstellen",
+		"count": 10
+	},
+	{
+		"typ": "Hook-Sensor tauschen",
+		"count": 7
+	},
+	{
+		"typ": "Hook-Sensor",
+		"count": 8
+	},
+	{
+		"typ": "Pallett-Sensor tauschen",
+		"count": 5
+	},
+	{
+		"typ": "Pallett-Sensor",
+		"count": 5
+	},
+	{
+		"typ": "Speiche Hinterrad",
+		"count": 4
+	},
+	{
+		"typ": "bringen",
+		"count": 1
+	},
+	{
+		"typ": "Doppelsensor tauschen",
+		"count": 2
+	},
+	{
+		"typ": "Aufkleber",
+		"count": 1
+	},
+	{
+		"typ": "Boxenkleber V�slauer",
+		"count": 1
+	},
+	{
+		"typ": "Klappe",
+		"count": 4
+	},
+	{
+		"typ": "Korbhalterung",
+		"count": 4
+	},
+	{
+		"typ": "Licht vorne Trelock",
+		"count": 2
+	},
+	{
+		"typ": "Lenkergriff",
+		"count": 4
+	},
+	{
+		"typ": "Schaltung",
+		"count": 3
+	},
+	{
+		"typ": "Radnummer �berpr�fen",
+		"count": 3
+	},
+	{
+		"typ": "Lichthalterung",
+		"count": 1
+	},
+	{
+		"typ": "Lichthalterung neu",
+		"count": 1
+	},
+	{
+		"typ": "Dynamostecker",
+		"count": 2
+	},
+	{
+		"typ": "Vorderradscheibe",
+		"count": 9
+	},
+	{
+		"typ": "Vorbau",
+		"count": 3
+	},
+	{
+		"typ": "Lenkstange",
+		"count": 2
+	},
+	{
+		"typ": "Werbekleber",
+		"count": 2
+	},
+	{
+		"typ": "tauschen",
+		"count": 1
+	},
+	{
+		"typ": "komplett",
+		"count": 1
+	},
+	{
+		"typ": "Scharniere einstellen",
+		"count": 1
+	},
+	{
+		"typ": "Pedal links",
+		"count": 6
+	},
+	{
+		"typ": "Pedal rechts",
+		"count": 1
+	},
+	{
+		"typ": "Magnetspule",
+		"count": 2
+	},
+	{
+		"typ": "Gummieinlage vorne",
+		"count": 1
+	},
+	{
+		"typ": "Schl�ssel",
+		"count": 1
+	},
+	{
+		"typ": "Vorderrad SRAM",
+		"count": 1
+	},
+	{
+		"typ": "Pitlock vorne",
+		"count": 1
+	},
+	{
+		"typ": "komplett tauschen",
+		"count": 1
+	},
+	{
+		"typ": "Zentrale anrufen",
+		"count": 2
+	},
+	{
+		"typ": "Zylinder",
+		"count": 1
+	},
+	{
+		"typ": "V-Brake",
+		"count": 2
+	},
+	{
+		"typ": "Rahmen",
+		"count": 2
+	},
+	{
+		"typ": "Schaltbox",
+		"count": 1
+	},
+	{
+		"typ": "Gabel",
+		"count": 1
+	},
+	{
+		"typ": "Geh�use Oberteil",
+		"count": 2
+	},
+	{
+		"typ": "Doppel-Sensor",
+		"count": 1
+	}]
+}]

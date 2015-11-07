@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<link rel="stylesheet" type="text/css" href="CSS/app.css" />
+	<script type="text/javascript" src="JS/Libraries/jquery-2.1.4.min.js"></script>
+	<script type="text/javascript" src="JS/Libraries/d3.v3.min.js"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+	<script type="text/javascript" src="JS/maps.js"></script>
+	<script type="text/javascript" src="JS/chartData.js"></script>
+	<script type="text/javascript" src="JS/bubbleChart.js"></script>
+	<script type="text/javascript" src="JS/duration.js"></script>
+	<script type="text/javascript" src="JS/linechart.js"></script>
+
+
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+ 	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+ 	<script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization','version':'1.1','packages':['corechart']}]}"></script>
+	<script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization','version':'1.1','packages':['corechart']}]}"></script>
+	<script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+
+	<link rel="stylesheet" href="/resources/demos/style.css">
+
+	  <script type="text/javascript">
+    google.load("visualization", "1.1", {packages:["bar"]});
+    google.load('visualization', '1.1', {packages: ['line']});
+  	var helpTextStatus = 0;
+  	function helpTextChange()
+  	{
+  		if(helpTextStatus == 0)
+  		{
+  			$('#helpText').css("display", "block");
+  			helpTextStatus = 1;
+  			$("#btn_helpText").html('Hide Help');
+  		}
+  		else
+  		{
+  			$('#helpText').css("display", "none");
+  			helpTextStatus = 0;
+  			$("#btn_helpText").html('Show Help');
+  		}
+  	}
+  	var devBarStatus = 0;
+  	function devBarChange()
+  	{
+  			//developerInformation
+  		if(devBarStatus == 0)
+  		{
+  			$('#developerInformation').css("display", "block");
+  			devBarStatus = 1;
+  			$("#btn_DevInfo").html('Hide Developer Information');
+  		}
+  		else
+  		{
+  			$('#developerInformation').css("display", "none");
+  			devBarStatus = 0;
+  			$("#btn_DevInfo").html('Show Developer Information');
+  		}
+  	}
+  	var fromSlideVal = 1;
+  	var toSlideVal = 12;
+  	$(function() {
+		$( "#slider-range" ).slider({
+		range: true,
+		min: 1,
+		max: 12,
+		values: [ 1,12],
+		slide: function( event, ui ) {
+		fromSlideVal = ui.values[0];
+		toSlideVal = ui.values[1];
+
+		$( "#amount" ).val( "Month: " + ui.values[ 0 ] + " - " + ui.values[ 1 ] );
+		}
+		});
+		$( "#amount" ).val( "Month " + $( "#slider-range" ).slider( "values", 0 ) +
+		" - " + $( "#slider-range" ).slider( "values", 1 ) );
+	});
+	function refresh()
+	{
+		bubbleChart(fromSlideVal, toSlideVal);
+		linechart(fromSlideVal, toSlideVal);
+		duration(fromSlideVal, toSlideVal);
+	}
+
+  </script>
+
+  </head>
+
+  <body onload="duration(1,12); linechart(1, 12);">
+
+
+
+	<div id="content">
+		
+		<table>
+			<tr style="width:100%">
+				<td style="width:40%"><div id="slider-range" style="width: 100%; margin-left: 15%"  ></div></td>
+				<td style="padding-left:10%">
+					<p>
+						<label for="amount">Month Range:</label>
+						<input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;">
+					</p>
+				</td>
+				<td><button id="btn_refCharts" onclick="refresh();" type="button">Reload Charts</button></td>
+				<td><button id="btn_helpText" onclick="helpTextChange();" type="button">Show Help</button></td>
+				<td><button id="btn_DevInfo" onclick="devBarChange();" type="button">Show Developer Information</button></td>
+			</tr>
+		</table>
+		
+		<div id="left">
+			<div id="map-canvas"></div>
+		</div>
+		
+		<div id="right">
+			<div id="detailSpaceOne">
+				<div id="help">
+					
+					
+				</div>
+				<br/>
+				<div id="helpText" style="display:none; color:Red">
+					Single Click to get information about a station. You can select multiple stations by using CONTROL + (Left) Mouse Click. In this case the detail charts will be activated.
+				</div>
+				<br/>
+				<div id="series_chart_div" style="width: 100%; height: 300px;"></div>
+
+
+				
+				
+				
+
+				<div style="margin-bottom: 20px;"></div>
+				<div class="chart"></div>
+				<div id="developerInformation" style="display:none;">
+					<div id="selectedStations"></div>
+					<div id="someContent"></div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bottom" style="clear:both;width: 100%; height:45%;"></br></br>
+			<table style="width: 90% ;height:90%;">
+				<tr>
+					<td style="width: 50%"><div id="column_div" style="width: 100%; height:100%"></div></td>
+					<td style="width: 50%"><div id="linechart_material" stye="width:100%; height:100%;overflow:hidden;"></div></td>
+				</tr>
+			</table>
+		</div>
+	</div>
+  </body>
+</html>

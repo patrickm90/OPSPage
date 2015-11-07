@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script type="text/javascript">
+    //Initilize start value to 1 'For Slide1.GIF'
+    var currentIndex = 1;
+
+    //NOTE: Set this value to the number of slides you have in the presentation.
+    var maxIndex=6;
+
+    function swapImage(imageIndex){
+        //Check if we are at the last image already, return if we are.
+        if(imageIndex>maxIndex){
+            currentIndex=maxIndex;
+            return;
+        }
+
+        //Check if we are at the first image already, return if we are.
+        if(imageIndex<1){
+            currentIndex=1;
+            return;
+        }
+
+        currentIndex=imageIndex;
+        //Otherwise update mainImage
+        if(currentIndex !=6){
+        document.getElementById("mainImage").src='/images/Slide' +  currentIndex  + '.GIF';
+        return;}
+        else {document.getElementById("mainImage").src='/images/Slide' +  currentIndex  + '.gif';
+        return;}
+    }
+</script>
+<title>Projectsolutions</title>
+<meta charset="utf-8">
+<link type="text/css" rel="stylesheet" href="styles/style.css" />
+<!--<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>-->
+<!--[if IE 6]>
+<style>body { behavior: url("styles/ie6-hover-fix.htc"); }</style>
+<script type="text/javascript" src="js/ie6-transparency.js"></script>
+<script>DD_belatedPNG.fix('.circle, .read-more, .blue-bullets li, #sidebar .sidebar-button');</script>
+<link type="text/css" rel="stylesheet" href="styles/ie6.css" />
+<![endif]-->
+<!--[if IE 7]><link type="text/css" rel="stylesheet" href="styles/ie7.css" /><![endif]-->
+</head>
+<body class="page">
+<div id="wrap">
+  <div id="header">
+    <h1><a href="#">Projectsolutions</a></h1>
+    <div id="nav">
+      <ul class="menu">
+        <li ><a href="index.html">Home</a></li>
+        <li class="current_page_item"><a href="#">Project</a>
+        <ul class="sub-menu">
+            <li class="current_page_item"><a href="description.html">Project Description</a></li>
+    <li><a href="solution.html">Project Solution Attempts</a></li>
+     <li><a href="m3.html"> Milestone 3 </a></li>
+                 <li><a href="m4.html"> Milestone 4 </a></li>
+    <li><a href="imp.html">Project Implementation</a></li>
+          </ul></li>
+        <li><a href="#">Team</a>
+             <ul class="sub-menu">
+            
+            <li><a href="mitti.html">Patrick Mittendorfer</a></li>
+            
+            
+          </ul></li>
+        </li>
+      </ul>
+    </div>
+    <!--end nav-->
+  </div>
+
+<p> </br> </br>In this animation we'd like to show a basic solution attempt. In this case you can select a specific station. After clicking that station, severel paths will grow to the other stations, which are representet by different colours and stroke widths. So for example a red stroke line (which is quite thick) represents a really often used route between stations. Therefore a green and quite thin line represents a route that isn't used that often.  </p>
+<p> <b>Attention:</b> Due to highquality pictures the animation may need a couple of seconds to preload! </p>
+
+<div id="btn"><a class="proto" href="proto2.html">Prototype2 &raquo;</a> </div>
+
+<img src="/images/Slide1.GIF" id="mainImage" name="mainImage" width="100%" height="520" alt="">
+
+<a href="#" onclick="swapImage(1);"><img src="/images/first.png" border=0 alt="First"></a>
+<a href="#" onclick="swapImage(currentIndex-1);"><img src="/images/left.png" border=0 alt="Back"></a>
+<a href="#" onclick="swapImage(currentIndex+1);"><img src="/images/right.png" border=0 alt="Next"></a>
+<a href="#" onclick="swapImage(maxIndex);"><img src="/images/last.png" border=0 alt="Last"></a>
+
+ <!--<img src="images/animated.gif" alt="" align="right" style="margin-top:-80px" /> 
+<iframe src="http://docs.google.com/gview?url=ctbike.github.io/proto3.pptx&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+-->
+
